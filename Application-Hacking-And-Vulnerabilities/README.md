@@ -9,3 +9,4 @@ Coursework from my studies on application hacking and vulnerabilities.
 - Fuff
 - GDB
 - binwalk
+- SQL-injections
