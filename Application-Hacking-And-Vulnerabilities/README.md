@@ -6,5 +6,6 @@ Coursework from my studies on application hacking and vulnerabilities.
 
 - Ghidra
 - strings
+- Fuff
 - GDB
 - binwalk
