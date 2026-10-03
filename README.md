@@ -22,6 +22,7 @@ In addition to coursework, I will document my own projects here.
 - Running a Raspberry Pi server
 - Hermes AI agent
 - WireGuard VPN tunnel for a security camera
+- Coding
 
 ### Status
 
