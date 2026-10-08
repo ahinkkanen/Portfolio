@@ -10,14 +10,14 @@ Halusin kotiin pienen, jatkuvasti päällä olevan koneen, joka hoitaa asiat, jo
 
 ## Mitä palvelin tekee
 Pi-hole estää mainokset ja seurantaosoitteet kaikilta kotiverkon laitteilta. Kaikki DNS-kyselyt kulkevat Quad9:n kautta. Se on yksityisyyttä painottava DNS-palvelu, joka estää myös tunnetut haitalliset verkkotunnukset.
-Henkilökohtaisen datan tallennus. Paikallinen PostgreSQL-tietokanta, jolle annoin nimeksi "Data-ämpäri", pyörii Podman-kontissa. Siihen tallennetaan omaa dataa, esimerkiksi kuntodataa, omalle laitteistolle eikä palveluntarjoajan järjestelmiin. Pi:hin kytketty pieni OLED-näyttö kertoo järjestelmän sen hetkistä statistiikkaa. Näyttö käynnistyy automaattisesti käynnistyksen yhteydessä systemd-palveluna.
+Henkilökohtaisen datan tallennus on parhaillaan työn alla. Paikallinen PostgreSQL-tietokanta, jolle annoin nimeksi "Data-ämpäri", pyörii Podman-kontissa. Siihen tallennetaan omaa dataa, esimerkiksi juoksu- ja pyöräilydataa, omalle laitteistolle eikä palveluntarjoajan järjestelmiin. 
 
 #### Pi-hole:
 <img width="1232" height="337" alt="image" src="https://github.com/user-attachments/assets/cd875401-e45e-4534-9c8e-cf70d30ee95d" />
 
 <img width="1259" height="939" alt="image" src="https://github.com/user-attachments/assets/78700601-e381-4429-a22e-e18dce82cc56" />
 
-#### Fail2ban
+#### Fail2ban:
 <img width="1244" height="469" alt="image" src="https://github.com/user-attachments/assets/342e8577-e7df-4ff7-8052-681ea918a837" />
 
 
@@ -29,14 +29,13 @@ Hallitsen Raspberry Pi 4 palvelintani omalta pöytäkoneeltani ````SSH:n```` yli
 
 Ensimmäisessä versiossa käytin useimpiin palveluihin Docker-kontteja. Törmäsin pitkäkestoisiin verkko-ongelmiin: Pi:n sisäänrakennetun verkkokortin ajurin (bcmgenet) ja Dockerin käyttämän bridge/NAT-kerroksen välillä oli ristiriitoja. Sen sijaan että olisin kasannut kiertotapoja päällekkäin, tein koko palvelimen uudelleen ja siirsin keskeiset palvelut natiiveihin asennuksiin. Esimerkiksi Pi-hole pyörii nyt suoraan käyttöjärjestelmässä.
 
-Lopputulos on helpompi ymmärtää ja vianmääritys on helpompaa, koska liikkuvia osia on vähemmän. Niissä palveluissa, joissa kontit olivat järkevä ratkaisu, kuten tietokannassa, käytin Podmania.
+Lopputulos on helpompi ymmärtää ja vianmääritys on helpompaa, koska liikkuvia osia on vähemmän. Niissä palveluissa, joissa kontit olivat järkevä ratkaisu, kuten tietokannassa niin olen ottanut käyttöön Podmanin.
 
 ## Lisä opit:
-Verkko-ongelmien selvittäminen kerros kerrallaan, aina ajuritason käyttäytymiseen asti
-Natiivin ja konteissa ajettavan palvelun valinta todellisten kompromissien perusteella, ei tottumuksen
-Palveluiden luotettava ajaminen systemd:llä
-Kotiverkon rakentaminen yksityisyys ja hallinta suunnittelutavoitteina
-Alusta aloittaminen silloin, kun perusta on väärä, korjailun sijaan
+- Verkko-ongelmien selvittäminen kerros kerrallaan, aina ajuritason käyttäytymiseen asti
+- Natiivin ja konteissa ajettavan palvelun valinta todellisten kompromissien perusteella.
+- Palveluiden luotettava ajaminen systemd:llä
+- Kotiverkon rakentaminen yksityisyys ja hallinta suunnittelutavoitteina
 
 ## Tila:
 
