@@ -4,7 +4,7 @@ Hermes on tekoälyagentti, jonka olen asentanut omalle työpöytäkoneelleni. Se
 
 ## Johdanto
 
-Halusin ymmärtää, miten tekoälyagentti toimii käytännössä ja kokeilla, millaista on ajaa kielimallia omalla koneella. Useimmat tekoälypalvelut toimivat pilvessä verkon yli, jolloin kaikki syötteeni kulkevat palveluntarjoajan palvelimien kautta. Paikallisessa ratkaisussa data pysyy omalla koneellani, ja käyttökustannuksia ei synny. Tämä sopii hyvin yksityisyyttä painottavaan kotilaboratorio ekosysteemiin
+Halusin ymmärtää, miten tekoälyagentti toimii käytännössä ja kokeilla, millaista on ajaa kielimallia omalla koneella. Useimmat tekoälypalvelut toimivat pilvessä verkon yli, jolloin kaikki syötteeni kulkevat palveluntarjoajan palvelimien kautta. Paikallisessa ratkaisussa data pysyy omalla koneellani ja käyttökustannuksia ei synny. Tämä sopii hyvin yksityisyyttä painottavaan kotilaboratorio ekosysteemiin
 
 <img width="1684" height="989" alt="image" src="https://github.com/user-attachments/assets/7d1b48a2-30e1-4f8a-8e68-a806a5602fc7" />
 
