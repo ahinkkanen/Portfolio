@@ -6,7 +6,7 @@ Halusin rakentaa itselleni yksityisyys edellä rakennettu kotipalvelin Raspberry
 
 Halusin kotiin pienen, jatkuvasti päällä olevan koneen, joka hoitaa asiat, jotka muuten antaisin ulkopuolisten palveluiden hoidettavaksi: DNS-suodatuksen, oman datan tallennuksen ja muiden projektieni keskuksen. Raspberry Pi 4 on edullinen, hiljainen ja kuluttaa vähän sähköä, joten se sopii hyvin vuorokauden ympäri käyvään kotilaboratorioon. Projekti antoi myös käytännön harjoitusta opiskelemistani asioista: Linux-ylläpidosta, tietoverkoista ja tietoturvasta.
 
-[Kuva 1: Raspberry Pi 4 paikallaan kotona / laitteiston yleiskuva]
+<img width="800" height="605" alt="image" src="https://github.com/user-attachments/assets/d99c18b8-16d1-44d6-a144-577f76743d63" />
 
 ## Mitä palvelin tekee
 Pi-hole estää mainokset ja seurantaosoitteet kaikilta kotiverkon laitteilta. Kaikki DNS-kyselyt kulkevat Quad9:n kautta. Se on yksityisyyttä painottava DNS-palvelu, joka estää myös tunnetut haitalliset verkkotunnukset.
@@ -16,7 +16,7 @@ Henkilökohtaisen datan tallennus. Paikallinen PostgreSQL-tietokanta, jolle anno
 
 ## Hallinta
 
-Hallitsen Raspberry Pi 4 palvelintani omalta pöytäkoneeltani ````ssh```` yli.
+Hallitsen Raspberry Pi 4 palvelintani omalta pöytäkoneeltani ````SSH:n```` yli.
 
 ## Oppi:
 
