@@ -12,7 +12,14 @@ Halusin kotiin pienen, jatkuvasti päällä olevan koneen, joka hoitaa asiat, jo
 Pi-hole estää mainokset ja seurantaosoitteet kaikilta kotiverkon laitteilta. Kaikki DNS-kyselyt kulkevat Quad9:n kautta. Se on yksityisyyttä painottava DNS-palvelu, joka estää myös tunnetut haitalliset verkkotunnukset.
 Henkilökohtaisen datan tallennus. Paikallinen PostgreSQL-tietokanta, jolle annoin nimeksi "Data-ämpäri", pyörii Podman-kontissa. Siihen tallennetaan omaa dataa, esimerkiksi kuntodataa, omalle laitteistolle eikä palveluntarjoajan järjestelmiin. Pi:hin kytketty pieni OLED-näyttö kertoo järjestelmän sen hetkistä statistiikkaa. Näyttö käynnistyy automaattisesti käynnistyksen yhteydessä systemd-palveluna.
 
-[Kuva 2: Pi-holen hallintapaneeli (piilota IP-osoitteet) tai OLED-näyttö toiminnassa]
+#### Pi-hole:
+<img width="1232" height="337" alt="image" src="https://github.com/user-attachments/assets/cd875401-e45e-4534-9c8e-cf70d30ee95d" />
+
+<img width="1259" height="939" alt="image" src="https://github.com/user-attachments/assets/78700601-e381-4429-a22e-e18dce82cc56" />
+
+#### Fail2ban
+<img width="1244" height="469" alt="image" src="https://github.com/user-attachments/assets/342e8577-e7df-4ff7-8052-681ea918a837" />
+
 
 ## Hallinta
 
