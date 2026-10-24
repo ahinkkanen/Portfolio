@@ -20,6 +20,16 @@ Aallon pituuden laskemiseen käytin ````https://www.wavelengthcalculator.org/```
 - Modulaatio: LSB
 ````
 
+## B) Moduwhat?
+
+Tätä harjoitusta varten valitsin WebSDR palvelusta ````Maasbree Netherlands```` radiokanavan. Kuuntelin tätä osoittimen mukaisesti parhaalta taajuudelta, joka oli ````3601.35````. Nyt vaihdoin modulaatioita. Aikaisemmassa käytin ````LSB````, mutta nyt otin käyttöön ````AM````.
+
+
+<img width="2250" height="1524" alt="image" src="https://github.com/user-attachments/assets/43c37c4d-689e-4410-8f3b-dd7980cee00d" />
+
+
+
+
 ## C) ADS-B
 
 <img width="2880" height="1614" alt="Untitled" src="https://github.com/user-attachments/assets/f48e6919-0390-432d-9e61-bd76939198b4" />
