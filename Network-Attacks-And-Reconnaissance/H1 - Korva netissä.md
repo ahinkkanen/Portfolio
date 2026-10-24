@@ -1,6 +1,24 @@
 # H1 Korva netissä
 
+## a) WebSDR
 
+Valitsin ````WebSDR.org```` sivustolta Brazilialaisen ````Pardinho```` radiokanavan, jota lähdin tutkimaan, koska se vaikutti mielenkiintoiselta. Harjoituksen aikana radiolla oli 107 aktiivista kuuntelijaa. Katsoin alla olevaa jatkuvasti päivittyvää signaalinvahvuuden osoitinta. Sieltä vieritin osoittimen kohtaan, josta signaali näytti huomattavasti vahvimmilta. Tämä oli taajudeltaan 6990.0 kHz. Täältä kuului selkeää puhetta, vaikka kieli oli täysin vieras. Kuitenkin huomaa, että kyseessä on todella kaukainen paikka ja valitsemalla lähempänä toimivan radion, niin ääni olisi vielä laadukkaampi.
+
+Alla olevassa kuvassa näkyy WebSDR:n kautta oleva radioyhteydenotto Pardinhoon. Kuvassa ilmenee asetukseni, joita käytin.
+
+<img width="2018" height="1208" alt="image" src="https://github.com/user-attachments/assets/32ecc59f-133d-40ee-9cc0-298b291fe418" />
+
+Aallon pituuden laskemiseen käytin ````https://www.wavelengthcalculator.org/```` palvelua. Tähän syötin taajuuden ja ohjelma laski arvioidun aallonpituuden. Arvioitu aallonpituus on 42,89nm. 
+
+<img width="1436" height="1338" alt="image" src="https://github.com/user-attachments/assets/de7e05b4-7043-45f8-88f3-eb5d4ab452a7" />
+
+#### Tiedot
+
+````
+- Taajuus: 6990 kHz
+- Aallonpituus: 42,89nm
+- Modulaatio: LSB
+````
 
 ## C) ADS-B
 
