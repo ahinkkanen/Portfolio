@@ -61,3 +61,8 @@ Aloitin tehtävän tutkimalla sivuston kautta lentokoneita. Löysin Saudi Arabia
 - Barometrinen korkeus: 34 000 ft
 - Lokaatio (kuvan hetkellä): 28,991°, 42,538°
 ````
+
+
+## Lähteet
+
+- 
