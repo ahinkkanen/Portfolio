@@ -7,7 +7,7 @@
 <img width="658" height="456" alt="spektri" src="https://github.com/user-attachments/assets/5082acc6-cd38-4588-8874-2a229b336a2c" />
 
 ##### Analysointi spektristä
-daw
+Ensimmäiseen segmenttiin voisi kuulua Radioaallot, koska ne ovat matalataajuisia. Tällaisia ovat mm. FM ja AM. Toiseen segmenttiin kuuluisi mikroaallot, joihin sisältyy mm. bluetooth, WiFi, 4G ja 5G. Kolmanteen segmenttiin puolestaan infrapuna valo, jota löytyy videotykeistä ja kaukosäätimistä. Neljänteen eli viimeisimpään kuulu kaikista korkeimmat taajuudet, joita löytyy esim. röntgenkuvauksesta ja sädehoidoista. 
 
 ## a) WebSDR
 
