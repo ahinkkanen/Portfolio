@@ -40,7 +40,7 @@ Alla kuva näkymästä.
 
 ## C) ADS-B
 
-Aloitin tehtävän tutkimalla sivuston kautta lentokoneita. Löysin Saudi Arabian kohdalta ulkoisesti suuri kokoisen koneen, joka paljastuikin olevan sotilaslentokone. Kyseinen kone on lähtenyt Dohasta liikkeelle, mutta määränpäätä ei selvinnyt.
+Aloitin tehtävän tutkimalla sivuston kautta lentokoneita. Löysin Saudi Arabian kohdalta ulkoisesti suuri kokoisen koneen, joka paljastuikin olevan sotilaslentokone. Kyseinen kone on lähtenyt Dohasta liikkeelle, mutta määränpäätä ei selvinnyt. Myöskin moni koneen tieto oli vain määritetty (n/a), koska kyseessä on sotilaskone, joten sen kaikkea dataa ei tahdota jakaa yleisesti julkisuuteen. 
 
 #### Tässä kuvassa näkyy lentokone kartalla.
 
