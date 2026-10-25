@@ -40,5 +40,24 @@ Alla kuva näkymästä.
 
 ## C) ADS-B
 
-<img width="2880" height="1614" alt="Untitled" src="https://github.com/user-attachments/assets/f48e6919-0390-432d-9e61-bd76939198b4" />
-<img width="170" height="1542" alt="image" src="https://github.com/user-attachments/assets/a26f2d1c-ad93-4776-9e2b-79055301d2f9" />
+Aloitin tehtävän tutkimalla sivuston kautta lentokoneita. Löysin Saudi Arabian kohdalta ulkoisesti suuri kokoisen koneen, joka paljastuikin olevan sotilaslentokone. Kyseinen kone on lähtenyt Dohasta liikkeelle, mutta määränpäätä ei selvinnyt.
+
+#### Tässä kuvassa näkyy lentokone kartalla.
+
+<img width="2174" height="1618" alt="image" src="https://github.com/user-attachments/assets/7abeb1b6-0a2f-42da-8947-443fdde79964" />
+
+#### Tässä kuvassa ilmenee lentokoneen ja lennon yksityiskohtaisia tietoja.
+
+<img width="132" height="1232" alt="image" src="https://github.com/user-attachments/assets/0ec16f1e-6264-45f6-a021-1d520bc0d8dd" />
+
+#### Tiedot
+
+````
+- Kutsutunnus: LHOB287
+- Hex: 06A27A
+- Rekisteri: A7-MAM (Qatar)
+- Lentoyhtiö: n/a
+- Tyyppi: C-17
+- Barometrinen korkeus: 34 000 ft
+- Lokaatio (kuvan hetkellä): 28,991°, 42,538°
+````
