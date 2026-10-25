@@ -40,7 +40,7 @@ Alla kuva näkymästä.
 
 ## C) ADS-B
 
-Aloitin tehtävän tutkimalla sivuston kautta lentokoneita. Löysin Saudi Arabian kohdalta ulkoisesti suuri kokoisen koneen, joka paljastuikin olevan sotilaslentokone. Kyseinen kone on lähtenyt Dohasta liikkeelle, mutta määränpäätä ei selvinnyt. Myöskin moni koneen tieto oli vain määritetty (n/a), koska kyseessä on sotilaskone, joten sen kaikkea dataa ei tahdota jakaa yleisesti julkisuuteen. 
+Aloitin tehtävän tutkimalla sivuston kautta lentokoneita. Löysin Saudi Arabian kohdalta ulkoisesti suuri kokoisen koneen, joka paljastuikin olevan sotilaslentokone. Kyseinen kone on lähtenyt Dohasta liikkeelle, mutta määränpäätä ei selvinnyt. Myöskin moni koneen tieto oli vain määritetty (n/a), koska kyseessä on sotilaskone, joten sen kaikkea dataa ei tahdota jakaa yleisesti julkisuuteen. Itse lentokone määrittää oman sijaintinsa GPS-satelliittien signaaleista ja lähettää sen tunnisteensa, korkeutensa ja suuntansa kanssa radioaaltoina, jonka avulla ADS-B pystyy paikantamaan koneen kartalla.
 
 #### Tässä kuvassa näkyy lentokone kartalla.
 
