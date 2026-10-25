@@ -69,6 +69,8 @@ Aloitin tehtävän tutkimalla sivuston kautta lentokoneita. Löysin Saudi Arabia
 
 
 ## Lähteet
-- Karvinen, T. 2026. Verkkoon tunkeutuminen ja tiedustelu. Luettavissa: https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/. Luettu: 25.10.2026
-- WebSDR 2026. websdr.org. Luettavissa: http://websdr.org/. Luettu: 24.10.2026
-- 
+- ADS-B 2026. ADS-B Exchange. Luettavissa: https://globe.adsbexchange.com/. Luettu: 24.10.2026 
+- Karvinen, T. 2026. Verkkoon tunkeutuminen ja tiedustelu. Luettavissa: https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/. Luettu: 25.10.2026.
+- Wavelength Calculator 2026. Wavelength Calculator. Luettavissa: https://www.wavelengthcalculator.org/. Luettu: 24.10.2026
+- WebSDR 2026. A WebSDR is a Software-Defined Radio receiver connected to the internet, allowing many listeners to listen and tune it simultaneously. Luettavissa: http://websdr.org/. Luettu: 24.10.2026
+
