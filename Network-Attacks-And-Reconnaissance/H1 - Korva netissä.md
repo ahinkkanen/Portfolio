@@ -9,7 +9,7 @@
 ##### Analysointi spektristä
 Ensimmäiseen segmenttiin voisi kuulua Radioaallot, koska ne ovat matalataajuisia. Tällaisia ovat mm. FM ja AM. Toiseen segmenttiin kuuluisi mikroaallot, joihin sisältyy mm. bluetooth, WiFi, 4G ja 5G. Kolmanteen segmenttiin puolestaan infrapuna valo, jota löytyy videotykeistä ja kaukosäätimistä. Neljänteen eli viimeisimpään kuulu kaikista korkeimmat taajuudet, joita löytyy esim. röntgenkuvauksesta ja sädehoidoista. 
 
-Kuvassa voisi kuvata vielä nuolilla, kuinka aallonpituus kasvaa vasemmalle ja pienenee oikealle. Tällöin vasemmalle mentäessä läpäisevyys kasvaa huomattavasti, mutta nopeus puolestaan laskee. Oikealle mentäessä läpäisevyys alkaa heikentyä, mutta nopeus kasvaa suuremmaksi. 
+Kuvassa voisi kuvata vielä nuolilla, kuinka aallonpituus kasvaa vasemmalle ja pienenee oikealle. Tällöin vasemmalle mentäessä läpäisevyys kasvaa huomattavasti, mutta nopeus puolestaan laskee. Oikealle mentäessä läpäisevyys alkaa heikentyä, mutta nopeus kasvaa suuremmaksi. Antennin koko pienenää myös tässä oikealle mentäessä ja kasvaa vasemmalle mentäessä. 
 
 ## a) WebSDR
 
