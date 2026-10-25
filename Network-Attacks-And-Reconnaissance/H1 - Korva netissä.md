@@ -1,5 +1,10 @@
 # H1 Korva netissä
 
+
+## x) Spektrini
+
+
+
 ## a) WebSDR
 
 Valitsin ````WebSDR.org```` sivustolta Brazilialaisen ````Pardinho```` radiokanavan, jota lähdin tutkimaan, koska se vaikutti mielenkiintoiselta. Harjoituksen aikana radiolla oli 107 aktiivista kuuntelijaa. Katsoin alla olevaa jatkuvasti päivittyvää signaalinvahvuuden osoitinta. Sieltä vieritin osoittimen kohtaan, josta signaali näytti huomattavasti vahvimmilta. Tämä oli taajudeltaan 6990.0 kHz. Täältä kuului selkeää puhetta, vaikka kieli oli täysin vieras. Kuitenkin huomaa, että kyseessä on todella kaukainen paikka ja valitsemalla lähempänä toimivan radion, niin ääni olisi vielä laadukkaampi.
@@ -64,5 +69,6 @@ Aloitin tehtävän tutkimalla sivuston kautta lentokoneita. Löysin Saudi Arabia
 
 
 ## Lähteet
-
+- Karvinen, T. 2026. Verkkoon tunkeutuminen ja tiedustelu. Luettavissa: https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/. Luettu: 25.10.2026
+- WebSDR 2026. websdr.org. Luettavissa: http://websdr.org/. Luettu: 24.10.2026
 - 
