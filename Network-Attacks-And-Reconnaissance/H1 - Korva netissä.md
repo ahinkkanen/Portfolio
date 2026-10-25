@@ -3,7 +3,11 @@
 
 ## x) Spektrini
 
+#### Kuvassa näkyy hahmotelma spektristäni, joka on jaettu karkeasti neljään eri tasoon.
+<img width="658" height="456" alt="spektri" src="https://github.com/user-attachments/assets/5082acc6-cd38-4588-8874-2a229b336a2c" />
 
+##### Analysointi spektristä
+daw
 
 ## a) WebSDR
 
