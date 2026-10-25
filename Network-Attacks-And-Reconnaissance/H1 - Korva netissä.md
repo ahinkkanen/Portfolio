@@ -10,7 +10,7 @@ Alla olevassa kuvassa näkyy WebSDR:n kautta oleva radioyhteydenotto Pardinhoon.
 
 Aallon pituuden laskemiseen käytin ````https://www.wavelengthcalculator.org/```` palvelua. Tähän syötin taajuuden ja ohjelma laski arvioidun aallonpituuden. Arvioitu aallonpituus on 42,89 m. 
 
-<img width="1436" height="1338" alt="image" src="https://github.com/user-attachments/assets/de7e05b4-7043-45f8-88f3-eb5d4ab452a7" />
+<img width="1458" height="1396" alt="image" src="https://github.com/user-attachments/assets/bf3d6ec3-5cdd-499b-9356-ba8e76ebcab5" />
 
 #### Tiedot
 
