@@ -23,7 +23,9 @@
 
 ## a) Linux
 
-* Minulla on käytössä natiiviksi asennettu Parrot OS, jolla teen kurssin tehtäviä. Tarvittaessa voin käynnistää Windowsin, josta voin käynnistää virtuaali Kali Linuxin.
+Minulla on käytössä natiiviksi asennettu Parrot OS, jolla teen kurssin tehtäviä. Tarvittaessa voin käynnistää Windowsin, josta voin käynnistää virtuaali Kali Linuxin. Parrot OS on debian pohjainen distro.
 
 
 ## b) 
+
+Osoitukset, että kykenen katkaisemaan ja palauttamaan tietokoneeni verkkoyhteyde. Kuvat ovat alla.
