@@ -47,11 +47,17 @@ Wireshark on valmiina asennettuna Parrot OS. Laitoin taustalle ````ICMP```` -pro
 
 ## d) Oikeesti TCP/IP.
 
-Kuvasta ilmenee yksi valitsemani paketti.
+Kuvasta ilmenee yksi valitsemani paketti ja sen TCP/IP kerrokset laatikoituna.
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d9d3a703-e736-4e5c-9dfa-787e7af82b43" />
 
+#### Tiedot:
 
-
+````
+* Sovelluskerros: Transport Layer Security, TLSvv1.3
+* Kuljetuskerros: Transmission Control Protocol, Src Port: 25174, Dst Port: 443
+* Internetkerros: Internet Protocol Version 4, Src: 192.168.1.103, Dst: 140.82.121.6
+* Linkkikerros: Ethernet II, MAC-osoitteet
+````
 
 
