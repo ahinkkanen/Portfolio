@@ -44,3 +44,14 @@ Wireshark on valmiina asennettuna Parrot OS. Laitoin taustalle ````ICMP```` -pro
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ddd2f5f4-ef8c-4bc1-b10a-8085faa060b9" />
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/63bae561-8f3e-4efd-8a90-f290d9c32b7b" />
+
+## d) Oikeesti TCP/IP.
+
+Kuvasta ilmenee yksi valitsemani paketti.
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d9d3a703-e736-4e5c-9dfa-787e7af82b43" />
+
+
+
+
+
