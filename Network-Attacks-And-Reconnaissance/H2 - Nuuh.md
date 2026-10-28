@@ -60,4 +60,6 @@ Kuvasta ilmenee yksi valitsemani paketti ja sen TCP/IP kerrokset laatikoituna.
 * Linkkikerros: Ethernet II, MAC-osoitteet
 ````
 
+## e) Mitäs tuli surfattua?
+
 
