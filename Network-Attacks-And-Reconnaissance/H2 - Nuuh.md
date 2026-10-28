@@ -12,4 +12,11 @@
   * Punainen neliö lopettaa sieppaamisen
   * Siepattua liikennettä voi tarkastella jälkeenpäin ja sitä varten on erilaisia filttereitä, kuten dns, tls ja http
   ````
+  
 * Karvinen 2025: Network Interface Names on Linux
+
+````
+* Linuxissa verkkoliittymät ovat nimetty en --> Wired Ethernet, wl --> WLAN & lo --> Loopback (localhost)
+* Nimet tulevat systemd:ltä
+* Verkkoliittymät voivat tarkastaa Linux terminaalissa komennoilla "ip a" ja "ip route"
+````
