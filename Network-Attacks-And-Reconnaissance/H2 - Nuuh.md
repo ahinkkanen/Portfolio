@@ -23,7 +23,7 @@
 
 ## a) Linux
 
-Minulla on käytössä natiiviksi asennettu Parrot OS, jolla teen kurssin tehtäviä. Tarvittaessa voin käynnistää Windowsin, josta voin käynnistää virtuaali Kali Linuxin. Parrot OS on debian pohjainen distro.
+Minulla on käytössä natiiviksi asennettu Parrot OS, jolla teen kurssin tehtäviä. Tarvittaessa voin käynnistää Windowsin, josta voin käynnistää virtuaali Kali Linuxin. Parrot OS on debian pohjainen Linux distro.
 
 
 ## b) 
