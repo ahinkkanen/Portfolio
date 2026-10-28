@@ -29,3 +29,8 @@ Minulla on käytössä natiiviksi asennettu Parrot OS, jolla teen kurssin tehtä
 ## b) 
 
 Osoitukset, että kykenen katkaisemaan ja palauttamaan tietokoneeni verkkoyhteyde. Kuvat ovat alla.
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/5abe997e-82a4-49d7-8e4c-fc082143bcc6" />
+
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/1099f6d0-bd4a-496c-a181-63dbf4ebacb4" />
