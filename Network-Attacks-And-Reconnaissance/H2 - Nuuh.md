@@ -21,12 +21,12 @@
 * Verkkoliittymät voivat tarkastaa Linux terminaalissa komennoilla "ip a" ja "ip route"
 ````
 
-## a) Linux
+## a) Linux.
 
 Minulla on käytössä natiiviksi asennettu Parrot OS, jolla teen kurssin tehtäviä. Tarvittaessa voin käynnistää Windowsin, josta voin käynnistää virtuaali Kali Linuxin. Parrot OS on debian pohjainen Linux distro.
 
 
-## b) 
+## b) Ei voi kalastaa.
 
 Osoitukset, että kykenen katkaisemaan ja palauttamaan tietokoneeni verkkoyhteyde. Kuvat ovat alla.
 
@@ -34,3 +34,13 @@ Osoitukset, että kykenen katkaisemaan ja palauttamaan tietokoneeni verkkoyhteyd
 
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/1099f6d0-bd4a-496c-a181-63dbf4ebacb4" />
+
+
+## c) Wireshark.
+
+Wireshark on valmiina asennettuna Parrot OS. Laitoin taustalle ````ICMP```` -protokollalla pyörivän ````ping```` -komennon pyörimään taustalle ja käynnistin Wiresharkin terminaalista komennolla ````sudo wireshark````. Seuraavaksi Wireshark ohjelma aukeaa ja sieltä valitsin verkkokortin, jolla lähin sieppaamaan liikennettä. Alimmasta kuvasta näkee sieppaamaani liikennettä, jossa ilmenee esimerkiksi taustalleni laittamaa ````ping```` -komentoa, joka ottaa yhteyttä jatkuvasti Cloudflaren DNS-palvelimeen. 
+
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ddd2f5f4-ef8c-4bc1-b10a-8085faa060b9" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/63bae561-8f3e-4efd-8a90-f290d9c32b7b" />
