@@ -62,4 +62,4 @@ Kuvasta ilmenee yksi valitsemani paketti ja sen TCP/IP kerrokset laatikoituna.
 
 ## e) Mitäs tuli surfattua?
 
-
+Kaappaus on kohtalaisen lyhyt ja se sisältää yhteensä 283 pakettia. Kaappauksessa ilmenee, että ensimmäinen kone ottaa yhteyden DNS-palvelimeen ja tekee kyselyn, joka Googlen palvelimelle. 
