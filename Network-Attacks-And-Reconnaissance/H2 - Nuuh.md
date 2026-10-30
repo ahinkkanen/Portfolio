@@ -67,7 +67,7 @@ Kaappaus on kohtalaisen lyhyt ja se sisältää yhteensä 283 pakettia. Kaappauk
 
 ## f) Vapaaehtoinen
 
--
+````-````
 
 
 ## g) Minkä merkkinen verkkokortti käyttäjällä on?
