@@ -63,3 +63,11 @@ Kuvasta ilmenee yksi valitsemani paketti ja sen TCP/IP kerrokset laatikoituna.
 ## e) Mitäs tuli surfattua?
 
 Kaappaus on kohtalaisen lyhyt ja se sisältää yhteensä 283 pakettia. Kaappauksessa ilmenee, että ensimmäinen kone ottaa yhteyden DNS-palvelimeen ja tekee kyselyn, joka Googlen palvelimelle. Myös yhteys muodostetaan terokarvinen.com sivuun DNS-kyselyn kautta. En löytänyt mitään salaamatonta liikennettä siepatusta verkkoliikenteestä, kuten ````http```` -liikennettä. Valtaosa Liikenteestä oli salattua ````QUIC````- ja ````TLS```` liikennettä. Siepatussa liikenteessä ````192.168.122.7```` näyttää olevan jonkin käyttäjän kone, koska se ottaa aina yhteyttä eri palvelimiin.
+
+
+## f) Vapaaehtoinen
+
+-
+
+
+## g) Minkä merkkinen verkkokortti käyttäjällä on?
