@@ -76,5 +76,7 @@ Pyrin ratkaisemaan tätä tutkimalla pakettien tietoja ja varsinkin käyttäjän
 
 #### Alla on kuvia tehtävästä
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/a5e18389-9769-4d6f-872b-3575768b26fe" />
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/da4f94c1-3ed9-48db-9378-b9635882e03a" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/dcf8ec4b-4341-4216-b2cc-704882738cf2" />
+
 
