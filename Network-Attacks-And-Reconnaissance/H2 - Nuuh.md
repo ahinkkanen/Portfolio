@@ -71,3 +71,10 @@ Kaappaus on kohtalaisen lyhyt ja se sisältää yhteensä 283 pakettia. Kaappauk
 
 
 ## g) Minkä merkkinen verkkokortti käyttäjällä on?
+
+Pyrin ratkaisemaan tätä tutkimalla pakettien tietoja ja varsinkin käyttäjän laitteen tietoja (````192.168.122.7````). Tietoja tutkin Wiresharkista. Avasin ensimmäisen paketin ja sieltä tutkin linkkikerroksen tietoja. Täältä löytyi käyttäjän laitteen MAC-osoite, joten aloin sitä tarkastelemaan verkosta löytämällä työkalulla ````MACLookup````. Kuitenkaan tämä ei antanut valmistajaa minulle vaan esitti, että kyseessä olisi yksityinen osoite, eikä täten laitevalmistajaa ole saatavilla julkisesti. Pohdin tähän syyksi, että voiko kyseessä olla virtuaali tietokone vai onko vain laitevalmistaja saatu salattua osoitteen taakse.
+
+#### Alla on kuvia tehtävästä
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/a5e18389-9769-4d6f-872b-3575768b26fe" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/da4f94c1-3ed9-48db-9378-b9635882e03a" />
+
