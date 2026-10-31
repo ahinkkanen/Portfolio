@@ -80,7 +80,7 @@ Pyrin ratkaisemaan tätä tutkimalla pakettien tietoja ja varsinkin käyttäjän
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/dcf8ec4b-4341-4216-b2cc-704882738cf2" />
 
 
-## h)
+## h) Millä weppipalvelimella käyttäjä on surffaillut?
 
 Käyttäjä on surffannut terokarvinen.com palvelimella. Tämä ilmenee DNS-kyselyistä. Toisiaan kuitenkin liikenne on TLS-salattua. Yritin käydä katsomassa onko löytämäni ````https://goatcounter.netlify.com/```` palvelin olemassa, mutta sieltä tuli kielteinen vastaus ja tutkittuani asiaa se taitaa vain olla terokarvinen.com palvelimeen integroitu kävijälaskuri. 
 
@@ -88,3 +88,9 @@ Käyttäjä on surffannut terokarvinen.com palvelimella. Tämä ilmenee DNS-kyse
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/6c3694b2-0dff-412a-b092-6be298927791" />
 
+
+## i) Analyysi.
+
+
+
+## Lähteet:
