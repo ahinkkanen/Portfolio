@@ -82,11 +82,13 @@ Pyrin ratkaisemaan tätä tutkimalla pakettien tietoja ja varsinkin käyttäjän
 
 ## h) Millä weppipalvelimella käyttäjä on surffaillut?
 
-Käyttäjä on surffannut terokarvinen.com palvelimella. Tämä ilmenee DNS-kyselyistä. Toisiaan kuitenkin liikenne on TLS-salattua. Yritin käydä katsomassa onko löytämäni ````https://goatcounter.netlify.com/```` palvelin olemassa, mutta sieltä tuli kielteinen vastaus ja tutkittuani asiaa se taitaa vain olla terokarvinen.com palvelimeen integroitu kävijälaskuri. 
+Käyttäjä on surffannut terokarvinen.com palvelimella. Tämä ilmenee DNS-kyselyistä. Toisiaan kuitenkin liikenne on TLS-salattua. Yritin käydä katsomassa onko löytämäni ````https://goatcounter.netlify.com/```` palvelin olemassa, mutta sieltä tuli kielteinen vastaus ja tutkittuani asiaa se taitaa vain olla terokarvinen.com palvelimeen integroitu kävijälaskuri. Sama kävi ````https://gc.zgo.at/```` kanssa.
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/5bbfec9a-d6d8-476c-8578-626f7edd94fa" />
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/6c3694b2-0dff-412a-b092-6be298927791" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/a9e92f78-b980-4654-b234-8ddf4ff29603" />
 
 
 ## i) Analyysi.
