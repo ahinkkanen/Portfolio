@@ -93,6 +93,7 @@ Käyttäjä on surffannut terokarvinen.com palvelimella. Tämä ilmenee DNS-kyse
 
 ## i) Analyysi.
 
+Aloitin sieppauksen käynnistämällä Wiresharkin ja sieltä valitsemalla verkkokortin, jolla siepata verkkoni läpi kulkevaa liikennettä. Tähän valitsin Wiresharkista WLAN-rajapinnaksi ````wlp98s0````. Kaappaukseni kesti 27 sekuntia ja sen ajan puitteissa paketteja kertyi yhteensä 5706. Sieppauksen aikana tarkoituksellisesti avasin Brave selaimella webbi osotteita, jotta sain liikennettä verkkoni sisällä kasvatettua. Avasin selaimessa terokarvinen.com, Haaga-Helian Moodlen ja YouTuben. Verkossani käyttämäni kone, jolla liikennettä sieppasin ja simuloin oli ````192.168.1.103````. Myös sieppauksessa ilmenee DNS-kyselyitä, jotka kulkevat minun itse hostaamna DNS-palvelimen läpi ````192.168.1.101````.
 
 
 ## Lähteet:
