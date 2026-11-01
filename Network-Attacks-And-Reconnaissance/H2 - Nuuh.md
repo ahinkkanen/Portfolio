@@ -98,4 +98,9 @@ Aloitin sieppauksen käynnistämällä Wiresharkin ja sieltä valitsemalla verkk
 Kuvissa näkyy kun olen suodattanut filtteröimällä liikennettä eri komennoilla, kuten ````dns.flags.response == 0```` ja ````tls.handshake.type == 1````. Nämä näyttää mitä nimiä koneeni kysyi ja mihin palvelimiin on otettu yhteyttä.
 
 
+<img width="1389" height="868" alt="image" src="https://github.com/user-attachments/assets/ae4f1c6f-a87c-4711-892d-420769689d39" />
+
+<img width="1389" height="868" alt="image" src="https://github.com/user-attachments/assets/c1f139bc-e42b-4200-8e49-00df8367f7d9" />
+
+
 ## Lähteet:
