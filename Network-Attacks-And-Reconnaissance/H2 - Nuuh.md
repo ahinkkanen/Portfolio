@@ -104,3 +104,9 @@ Kuvissa näkyy kun olen suodattanut filtteröimällä liikennettä eri komennoil
 
 
 ## Lähteet:
+
+* https://terokarvinen.com/wireshark-getting-started/
+* https://terokarvinen.com/network-interface-linux/
+* https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/surfing-secure.pcap
+* https://wireshark.com/how-to-use-wireshark/
+* https://maclookup.app/
