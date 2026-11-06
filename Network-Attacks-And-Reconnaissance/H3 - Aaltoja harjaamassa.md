@@ -19,9 +19,24 @@
 
 ## b) rtl_433.
 
-Etsin selamen kautta ````rtl_433```` GitHub repositorion. Tämä löytyi ja ohjeman tekijä on ````merbanan````
+Etsin selamen kautta ````rtl_433```` GitHub repositorion. Tämä löytyy ohjeman tekijän ````merbanan```` repositoriosta.
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/a171c9cb-6ab3-49bb-a1f7-32d221facd29" />
 
 GitHub repositoriossa on selkeät ohjeet asennukseen eri alustoille ja myös ajo ohjeet. 
 
+Softa radion asennus Linuxilla ````sudo apt update```` päivittää pakettilistat ja komennolla ````sudo apt install rtl-433```` asennetaan itse softa radio ohjelma koneelle. Ohjelma ajetaan käyntiin terminaalista syötteellä ````rtl_433 -h````. 
+
+#### Itse olin jo asentanut rtl_433 aikaisemmin.
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/84f10b80-4bd8-4cbf-b3a1-2cd3bdecafc8" />
+
+#### Ohjelman ajo
+
+Kun ajaa terminaalissa ````rtl_433 -h```` ohjelma lähtee käyntiin ja näyttää sen version alussa. 
+
+Käyttämäni ohjelma version on ````rtl_433 version 25.02 (2025-02-19)````.
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/5b22e62d-b4ad-4a5f-aefc-c8a1abcce6aa" />
+
+
+## c) Automaattinen analyysi.
