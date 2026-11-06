@@ -25,14 +25,14 @@ Etsin selamen kautta ````rtl_433```` GitHub repositorion. Tämä löytyy ohjeman
 
 GitHub repositoriossa on selkeät ohjeet asennukseen eri alustoille ja myös ajo ohjeet. 
 
-Softa radion asennus Linuxilla ````sudo apt update```` päivittää pakettilistat ja komennolla ````sudo apt install rtl-433```` asennetaan itse softa radio ohjelma koneelle. Ohjelma ajetaan käyntiin terminaalista syötteellä ````rtl_433 -h````. 
+Softa radion asennus Linuxilla ````sudo apt update```` päivittää pakettilistat ja komennolla ````sudo apt install rtl-433```` asennetaan itse softa radio ohjelma koneelle. Ohjelma ajetaan käyntiin terminaalista syötteellä ````rtl_433````. 
 
 #### Itse olin jo asentanut rtl_433 aikaisemmin.
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/84f10b80-4bd8-4cbf-b3a1-2cd3bdecafc8" />
 
 #### Ohjelman ajo
 
-Kun ajaa terminaalissa ````rtl_433 -h```` ohjelma lähtee käyntiin ja näyttää sen version alussa. 
+Kun ajaa terminaalissa ````rtl_433 -h```` ohjelma lähtee käyntiin ja näyttää sen version alussa ja parametreistä ohjelistan. 
 
 Käyttämäni ohjelma version on ````rtl_433 version 25.02 (2025-02-19)````.
 
