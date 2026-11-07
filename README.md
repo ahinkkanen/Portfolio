@@ -14,7 +14,7 @@ This repository includes coursework from my studies on the following topics:
 - Windows servers
 - Computer networks
 - Application hacking
-- Network Intrusion and Reconnaissance (Soon)
+- Network Intrusion and Reconnaissance (Ongoing)
 - Penetration Testing (Soon)
 
 In addition to coursework, I will document my own projects here.
