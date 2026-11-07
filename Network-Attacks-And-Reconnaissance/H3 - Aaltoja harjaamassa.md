@@ -1,4 +1,4 @@
-# H3 Aaltoja harjaamassa
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/45460e4c-519f-4d1c-a0eb-69d44437c424" /># H3 Aaltoja harjaamassa
 
 
 ## x) Lue ja tiivistä.
@@ -62,4 +62,4 @@ Näkymä kun ohjema on ajettu harjoitus tiedostolle ````Converted_433.92M_2000k.
 
 #### Analyysi
 
-daw
+Näytteessä ilmenee mahdollisesti kolmen eri laitteen siepattuja signaaleja. Tässä hypoteesissa ne olisivat ````KlikAanKlikUit-Switch````, ````Proove-Security```` ja ````Nexa-Security````. Huomasin, kuitenkin pian toistuvan logiikan näytteestä, jossa samat mallit tulevat kolmessa osassa nejä kertaa samassa järjestyksessä. Aloin pohtimaan voiko tämä silti, jotenkin tulla yhdestä laitteesta, koska jokaisessa näytteessä ````id / House Code```` on jokaisessa tulosteessa sama ````8785315````.
