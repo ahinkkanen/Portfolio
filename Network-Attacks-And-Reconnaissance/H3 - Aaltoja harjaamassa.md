@@ -42,7 +42,7 @@ Käyttämäni ohjelma version on ````rtl_433 version 25.02 (2025-02-19)````.
 ## c) Automaattinen analyysi.
 
 
-Harjoitusta varten latasin tiedoston ````terokarvinen.com```` sivustolta. Tiedostolle määritettiin aluksi viel ajamista varten oikeudet.
+Harjoitusta varten latasin tiedoston ````terokarvinen.com```` sivustolta. Tiedostolle määritettiin aluksi vielä ajamista varten oikeudet.
 
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e13986fe-3bed-471a-8ef0-50f1c86e87b5" />
