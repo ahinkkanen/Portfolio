@@ -67,3 +67,5 @@ Näytteessä ilmenee mahdollisesti kolmen eri laitteen siepattuja signaaleja. T�
 
 ## d) Too compex 16?
 
+Tehtävää varten ladattiin ````terokarvinen.com```` -sivulta harjoitustiedosto, joka on nauhoitettu ````urh```` -ohjelmalla. Koska näyte on otettu ````urh```` -ohjelmalla, on sen tiedostopääte ````.complex16s````. Jos tätä lähtisi itsessään analysoimaan suoraan hyödyntäen rtl_433 ohjelmistoa, niin se ei onnistuisi ja tulee alla olevan kuvan mukainen virheilmoitus.
+
