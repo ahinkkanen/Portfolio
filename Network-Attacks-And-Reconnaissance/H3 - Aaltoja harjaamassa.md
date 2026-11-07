@@ -60,6 +60,6 @@ Näkymä kun ohjema on ajettu harjoitus tiedostolle ````Converted_433.92M_2000k.
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/5724a615-27f3-4def-8794-945285b8c68e" />
 
 
-#### Analyysi
+#### Analyysi näytteestä
 
 Näytteessä ilmenee mahdollisesti kolmen eri laitteen siepattuja signaaleja. Tässä hypoteesissa ne olisivat ````KlikAanKlikUit-Switch````, ````Proove-Security```` ja ````Nexa-Security````. Huomasin, kuitenkin pian toistuvan logiikan näytteestä, jossa samat mallit tulevat kolmessa osassa nejä kertaa samassa järjestyksessä. Aloin pohtimaan voiko tämä silti, jotenkin tulla yhdestä laitteesta, koska jokaisessa näytteessä ````id / House Code```` on jokaisessa tulosteessa sama ````8785315````.
