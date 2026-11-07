@@ -63,3 +63,7 @@ Näkymä kun ohjema on ajettu harjoitus tiedostolle ````Converted_433.92M_2000k.
 #### Analyysi näytteestä
 
 Näytteessä ilmenee mahdollisesti kolmen eri laitteen siepattuja signaaleja. Tässä hypoteesissa ne olisivat ````KlikAanKlikUit-Switch````, ````Proove-Security```` ja ````Nexa-Security````. Huomasin, kuitenkin pian toistuvan logiikan näytteestä, jossa samat mallit tulevat kolmessa osassa nejä kertaa samassa järjestyksessä. Aloin pohtimaan voiko tämä silti, jotenkin tulla yhdestä laitteesta, koska jokaisessa näytteessä ````id / House Code```` on jokaisessa tulosteessa sama ````8785315````. Tutkin netistä ovatko nuo kolme eri valmistajaa vai, mikä niiden tarkoitus on niin minulle selvisi, että ne ovat eri merkkejä, mutta tekevät saman asian vain varmistaakseen, että signaalin viesti menisi varmasti perille. Numero koodi on vain lähettäjä laitteen yksilöity nimi.
+
+
+## d) Too compex 16?
+
