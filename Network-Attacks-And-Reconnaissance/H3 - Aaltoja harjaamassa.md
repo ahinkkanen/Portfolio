@@ -54,7 +54,7 @@ Katsoin ````rtl_433```` -ohjelimstoon ````help```` -sivuilta ohjeita mahdollisis
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/862a3c71-b256-46cb-8799-8ea622f03671" />
 
 
-Näkymä kun ohjema on ajettu harjoitus tiedostolle ````Converted_433.92M_2000k.cs8````.
+Näkymä kun ohjema on ajettu harjoitustiedostolle ````Converted_433.92M_2000k.cs8````.
 
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/5724a615-27f3-4def-8794-945285b8c68e" />
