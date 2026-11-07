@@ -86,3 +86,8 @@ Seuraavaksi oli tarkoitus analysoida kopiotiedostoa ````rtl_433```` avulla ````d
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/38ec4648-8dcb-4b88-affb-1b63a8571f13" />
 
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9c57911a-fd5d-4688-b6cb-71f844ac5f66" />
+
+
+## e) Ultimate.
