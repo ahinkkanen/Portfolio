@@ -65,7 +65,7 @@ Näkymä kun ohjema on ajettu harjoitustiedostolle ````Converted_433.92M_2000k.c
 Näytteessä ilmenee mahdollisesti kolmen eri laitteen siepattuja signaaleja. Tässä hypoteesissa ne olisivat ````KlikAanKlikUit-Switch````, ````Proove-Security```` ja ````Nexa-Security````. Huomasin, kuitenkin pian toistuvan logiikan näytteestä, jossa samat mallit tulevat kolmessa osassa nejä kertaa samassa järjestyksessä. Aloin pohtimaan voiko tämä silti, jotenkin tulla yhdestä laitteesta, koska jokaisessa näytteessä ````id / House Code```` on jokaisessa tulosteessa sama ````8785315````. Tutkin netistä ovatko nuo kolme eri valmistajaa vai, mikä niiden tarkoitus on niin minulle selvisi, että ne ovat eri merkkejä, mutta tekevät saman asian vain varmistaakseen, että signaalin viesti menisi varmasti perille. Numero koodi on vain lähettäjä laitteen yksilöity nimi.
 
 
-## d) Too compex 16?
+## d) Too complex 16?
 
 Tehtävää varten ladattiin ````terokarvinen.com```` -sivulta harjoitustiedosto, joka on nauhoitettu ````urh```` -ohjelmalla. Koska näyte on otettu ````urh```` -ohjelmalla, on sen tiedostopääte ````.complex16s````. Jos tätä lähtisi itsessään analysoimaan suoraan hyödyntäen rtl_433 ohjelmistoa, niin se ei onnistuisi, koska ````rtl_433```` ei tunnistaisi tuota ````.complex16s```` -tiedostopäätettä. 
 
