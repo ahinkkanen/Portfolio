@@ -1,4 +1,4 @@
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/13e807ae-8cfd-4f38-bf6d-d67e4187ba23" /><img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e0b1bf85-c30a-43bb-99ec-0ab84ec11fab" /># H3 Aaltoja harjaamassa
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/47681795-bb4f-41ad-a491-a4ba6e29c28e" /><img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/13e807ae-8cfd-4f38-bf6d-d67e4187ba23" /><img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e0b1bf85-c30a-43bb-99ec-0ab84ec11fab" /># H3 Aaltoja harjaamassa
 
 
 ## x) Lue ja tiivistä.
@@ -74,8 +74,15 @@ Alla olevassa kuvassa ilmenee ongelmani, kun pyrin ajamaan tiedostoa ````rtl_433
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/0b79fb41-776b-4dd0-a314-ea3d495ec01d" />
 
 
-Jotta pystyn analysoimaan tiedostoa käyttäen ````rtö_433```` -ohjelmaa, niin tein kopiontiedostosta, jonka tiedosto pääte oli eri (````.cs````). 
+Jotta pystyn analysoimaan tiedostoa käyttäen ````rtl_433```` -ohjelmaa, niin tein kopion tiedostosta, jonka tiedosto pääte oli eri (````.cs````). 
 
 ````
 cp Recorded-HackRF-20250411_183354-433_92MHz-2MSps-2MHz.complex16s d-kaannetty.cs8
 ````
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/7ebcd0e8-09d0-42a3-ac16-f8b26491c58d" />
+
+Seuraavaksi oli tarkoitus analysoida kopiotiedostoa ````rtl_433```` avulla ````d-kaannetty.cs8```` -tiedostoa. Kuitenkin huomasin, että se ei tuottanut minun haluamaani lopputulosta. Kysyin tässä kohtaa ````Claude Sonnet 5.5 Low```` -kieiimallilta, mikä minulta jäänyt tajuamatta. Kielimalli ohjeisti antaman lisää parametrejä, koska ````rtl_433```` käyttää oletusarvoisesti 250 kHz taajuutta ja tiedoston nimestä ilmenee, että se on 2 MSps. Kun tämän jälkeen tein komentoon muutoksen sain purettua tulosteen oikein ulos. Se kuitenkin ilmeni samaksi kuin harjoituksessa ````c)````, joten siitä johtopäätökset ja analyysi ovat samat. Tämän harjoituksena oli saada käännettyä toisella ohjelmalla nauhoitettu tiedosto toiselle työkalulle sopivaksi ja lopulta analysoida se.
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/38ec4648-8dcb-4b88-affb-1b63a8571f13" />
+
