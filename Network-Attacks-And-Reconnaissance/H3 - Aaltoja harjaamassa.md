@@ -1,4 +1,4 @@
-# H3 Aaltoja harjaamassa
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/13e807ae-8cfd-4f38-bf6d-d67e4187ba23" /><img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e0b1bf85-c30a-43bb-99ec-0ab84ec11fab" /># H3 Aaltoja harjaamassa
 
 
 ## x) Lue ja tiivistä.
@@ -67,5 +67,15 @@ Näytteessä ilmenee mahdollisesti kolmen eri laitteen siepattuja signaaleja. T�
 
 ## d) Too compex 16?
 
-Tehtävää varten ladattiin ````terokarvinen.com```` -sivulta harjoitustiedosto, joka on nauhoitettu ````urh```` -ohjelmalla. Koska näyte on otettu ````urh```` -ohjelmalla, on sen tiedostopääte ````.complex16s````. Jos tätä lähtisi itsessään analysoimaan suoraan hyödyntäen rtl_433 ohjelmistoa, niin se ei onnistuisi ja tulee alla olevan kuvan mukainen virheilmoitus.
+Tehtävää varten ladattiin ````terokarvinen.com```` -sivulta harjoitustiedosto, joka on nauhoitettu ````urh```` -ohjelmalla. Koska näyte on otettu ````urh```` -ohjelmalla, on sen tiedostopääte ````.complex16s````. Jos tätä lähtisi itsessään analysoimaan suoraan hyödyntäen rtl_433 ohjelmistoa, niin se ei onnistuisi, koska ````rtl_433```` ei tunnistaisi tuota ````.complex16s```` -tiedostopäätettä. 
 
+Alla olevassa kuvassa ilmenee ongelmani, kun pyrin ajamaan tiedostoa ````rtl_433```` ohjelmalla.
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/0b79fb41-776b-4dd0-a314-ea3d495ec01d" />
+
+
+Jotta pystyn analysoimaan tiedostoa käyttäen ````rtö_433```` -ohjelmaa, niin tein kopiontiedostosta, jonka tiedosto pääte oli eri (````.cs````). 
+
+````
+cp Recorded-HackRF-20250411_183354-433_92MHz-2MSps-2MHz.complex16s d-kaannetty.cs8
+````
