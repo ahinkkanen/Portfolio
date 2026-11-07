@@ -1,4 +1,4 @@
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/47681795-bb4f-41ad-a491-a4ba6e29c28e" /><img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/13e807ae-8cfd-4f38-bf6d-d67e4187ba23" /><img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e0b1bf85-c30a-43bb-99ec-0ab84ec11fab" /># H3 Aaltoja harjaamassa
+# H3 Aaltoja harjaamassa
 
 
 ## x) Lue ja tiivistä.
