@@ -169,6 +169,9 @@ Vertailun kohteena tässä pidin valonnopeutta ja sitä, kuinka pitkän matkan v
 
 #### Vertailun lopputulos
 
-Mikäli tätä lähtisi suhteuttamaan kartalla niin esimerkkinä Helsingin Elielinaukiolta suoraan pohjoiseen mitatessa yhden raakabitin aikana valo kulkee Ottele nimiseen paikkaan, joka sijaitsee Pirkanmaalla noin 60km Tampereelta koiliseen päin. 
+Mikäli tätä lähtisi suhteuttamaan kartalla, niin esimerkkinä Helsingin Elielinaukiolta suoraan pohjoiseen mitatessa yhden raakabitin aikana valo kulkee Ottele nimiseen kylään. Ottele sijaitsee Pirkanmaalla noin 60km Tampereelta koiliseen päin. Tämä todistaa, kuinka nopea valo on ilmakehässä, vaikka aika raakabittinä on erittäin lyhyt.
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/3b8f2648-5c9a-4584-b2c8-bbdb50aeedee" />
+
+
+## Lähteet.
