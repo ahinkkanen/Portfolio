@@ -1,4 +1,4 @@
-# H3 Aaltoja harjaamassa
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/33a4d19f-69f9-4099-a1b1-97c5f07b87d3" /># H3 Aaltoja harjaamassa
 
 
 ## x) Lue ja tiivistä.
@@ -126,7 +126,9 @@ Tehtävää varten ````urh```` -ohjelmaan syötettiin tehtävän tiedosto. Täss
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/1a69f0bd-5b48-4166-96c9-b8cf17a9706d" />
 
 
-Tieodoston yleistietojen 
+#### Analyysi
+
+Tieodoston yleistietojen selvittämistä varten sininen ````info```` -painike vasemmassa yläreunassa avaa 
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ad8bdb7e-3798-42a3-87eb-7026fde16216" />
 
