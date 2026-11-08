@@ -6,3 +6,6 @@ Coursework from my studies on network intrusion and reconnaissance.
 
 - Wireshark
 - tcpdump
+- Aircrack-ng
+- uhr
+- rtl_433
