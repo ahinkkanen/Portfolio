@@ -1,6 +1,3 @@
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/33a4d19f-69f9-4099-a1b1-97c5f07b87d3" /># H3 Aaltoja harjaamassa
-
-
 ## x) Lue ja tiivistä.
 
 #### Hubacek 2019.
