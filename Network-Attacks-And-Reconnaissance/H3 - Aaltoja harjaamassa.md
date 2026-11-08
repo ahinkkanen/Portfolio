@@ -126,6 +126,8 @@ Tehtävää varten ````urh```` -ohjelmaan syötettiin tehtävän tiedosto. Täss
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/1a69f0bd-5b48-4166-96c9-b8cf17a9706d" />
 
 
+Tieodoston yleistietojen 
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ad8bdb7e-3798-42a3-87eb-7026fde16216" />
 
 
