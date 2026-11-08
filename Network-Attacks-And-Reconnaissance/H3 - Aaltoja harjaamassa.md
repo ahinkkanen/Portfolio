@@ -141,6 +141,11 @@ Tästä selviää, että kaapatun signaalin kokonaiskesto on ````5,49 s```` ja t
 
 ## g) Bittistä.
 
-Valitsin ````Signal View```` -valikosta ````Demodulated````ja tämän jälkeen aloitettiin tarkastelemaan alla näkyviä bittirivejä.
+Valitsin ````Signal View```` -valikosta ````Demodulated````ja tämän jälkeen aloitettiin tarkastelemaan alla näkyviä bittirivejä. Valitsin loogisesti tarkasteluun ensimmäisen rivin ensimmäisen bitin, jota oli tarkoitus alkaa tutkia. 
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/94b48a1b-397b-4c07-a97b-b3b871d6eb3a" />
+
+
+Valittuani ensimmäisen raakabitin, niin heti pystyin näkemään sen ajan osana koko kokonaisuudessa, joka oli ilmiselvästi äärimmäisen lyhyt ajanjakso ````521,00 µs````. Tämä on ajassa 521 millisekuntia. Tutkin myös muita satunnaisia yksittäisiä raakabittejä ja ne olivat ajaltaan eri pituisia, kuin ensimmäinen. Jotkin bitit saattoivat kestää, jopa puolet vähemmen kuin ensimmäinen, jota käytin vertailukohteena. Hirvesäti tuota merkittävästi ei ollut. Suurinpiirtein 100 millisekuntin kasvua oli havaittavissa muutamissa biteissä, mutta se oli harvinaisempaa.
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e0d94a1f-16b6-4703-9dbb-a1d9c757948c" />
