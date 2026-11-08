@@ -83,6 +83,9 @@ Seuraavaksi oli tarkoitus analysoida kopiotiedostoa ````rtl_433```` avulla ````d
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/38ec4648-8dcb-4b88-affb-1b63a8571f13" />
 
+#### Onnistunut komento
+
+````rtl_433 d-kaannetty.cs8 -s 2M -f 433.92M````
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9c57911a-fd5d-4688-b6cb-71f844ac5f66" />
 
