@@ -91,3 +91,26 @@ Seuraavaksi oli tarkoitus analysoida kopiotiedostoa ````rtl_433```` avulla ````d
 
 
 ## e) Ultimate.
+
+
+Tehtävää varten asennettaan ````uhr```` -ohjelma eli Universal Radio Hacker. Tämä löytyy GitHubista ````jopohl````:n repositoriosta. Repositoriossa on myös selkeät asennus ohjeet. 
+
+````
+https://github.com/jopohl/urh
+````
+
+
+````
+- sudo apt update
+- sudo apt install pipx
+- pipx install urh
+- pipx ensurepath
+````
+
+
+#### urh ajoon terminaalissa 
+
+````
+urh
+````
+
