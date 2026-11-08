@@ -113,6 +113,6 @@ $ pipx ensurepath
 #### urh ajoon terminaalissa 
 
 ````
-urh
+$ urh
 ````
 
