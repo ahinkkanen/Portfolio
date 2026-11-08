@@ -177,4 +177,6 @@ Mikäli tätä lähtisi suhteuttamaan kartalla, niin esimerkkinä Helsingin Elie
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/3b8f2648-5c9a-4584-b2c8-bbdb50aeedee" />
 
 
-## Lähteet.
+## Lähteet:
+
+- 
