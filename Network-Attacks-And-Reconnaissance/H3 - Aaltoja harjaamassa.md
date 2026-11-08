@@ -129,4 +129,8 @@ Tieodoston yleistietojen selvittämistä varten sininen ````info```` -painike va
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ad8bdb7e-3798-42a3-87eb-7026fde16216" />
 
-Tästä selviää, että kaapatun signaalin kokonaiskesto on ````5,49 s```` ja tiedoston koko on ````10,47MB````.
+Tästä selviää, että kaapatun signaalin kokonaiskesto on ````5,49 s```` ja tiedoston koko on ````10,47MB````. Näiden kolmen napin painalluksen aikana signaalinäytteitä on kuitenkin kertynyt yhteensä ````5 491 580```` -kappaletta. Tiedoston nimestä selviää, että se on luotu 12.4.2025 klo. 11:38:05 ja lisäksi, että sen taajuus on 433,912 MHz. 
+
+````
+1-on-on-on-HackRF-20250412_113805-433_912MHz-2MSps-2MHz.complex16s
+````
