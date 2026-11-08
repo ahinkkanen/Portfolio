@@ -100,6 +100,8 @@ https://github.com/jopohl/urh
 ````
 
 
+#### urh asennus terminaalissa
+
 ````
 - sudo apt update
 - sudo apt install pipx
