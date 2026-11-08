@@ -179,4 +179,14 @@ Mikäli tätä lähtisi suhteuttamaan kartalla, niin esimerkkinä Helsingin Elie
 
 ## Lähteet:
 
-- 
+* https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/
+* https://www.youtube.com/watch?v=sbqMqb6FVMY&t=199s
+* https://www.onetransistor.eu/2022/01/decode-433mhz-ask-signal.html
+* https://klikaanklikuit.nl/
+* https://www.prove.com/
+* https://wearenexa.com/en/
+* https://tiedesuomi.fi/valon-nopeus/
+* https://peda.net/p/ketonela/laura-ketonen/8-fysiikka2/menneet-kurssit/8-fysiikka/nopeuslaskuja/akk/nimet%C3%B6n-64b9
+* https://www.rtl-sdr.com/tag/rtl_433/
+* https://github.com/merbanan/rtl_433
+* https://github.com/jopohl/urh
