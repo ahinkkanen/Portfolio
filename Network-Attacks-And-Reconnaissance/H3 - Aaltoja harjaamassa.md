@@ -129,4 +129,4 @@ Tieodoston yleistietojen selvittämistä varten sininen ````info```` -painike va
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ad8bdb7e-3798-42a3-87eb-7026fde16216" />
 
-
+Tästä selviää, että kaapatun signaalin kokonaiskesto on ````5,49 s```` ja tiedoston koko on ````10,47MB````.
