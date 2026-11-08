@@ -97,7 +97,12 @@ Harjoituksessa simuloitiin tietokannan syötteen manipuloimista. Haavoittuvuus l
 ## c) Solve dirfuzt-1
 Latasin ohjeiden mukaisesti tiedoston ja määritin sille samat oikeudet, mitä testitiedostolle teimme aiemmin.
 <img width="798" height="498" alt="image" src="https://github.com/user-attachments/assets/7f5c85e1-6011-47c4-8473-f9636d7a42c1" />
+
 <img width="2088" height="1332" alt="image" src="https://github.com/user-attachments/assets/4df92eeb-bf5a-450b-babd-39bcdbc0dd91" />
+
+````
+./ffuf -w common.txt -u http://127.0.0.2:8000/FUZZ -fs 154
+````
 
 Sen jälkeen ajoin fuff työkalulla testi ympäristön ja se palautti minulle piilotettuja hakemistoja, joita voin syöttää oletus URL:n perään testasin niitä läpi ja kahdesta niistä löytyi flagit, joita etsin. Muut päätteet palauttivat saman flagin kuin pelkkä /.git/ pääte
 <img width="830" height="340" alt="image" src="https://github.com/user-attachments/assets/e397e922-5b74-4464-a5a3-cd229d04e3f6" />
