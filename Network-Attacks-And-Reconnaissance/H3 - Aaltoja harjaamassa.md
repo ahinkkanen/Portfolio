@@ -146,6 +146,29 @@ Valitsin ````Signal View```` -valikosta ````Demodulated````ja tämän jälkeen a
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/94b48a1b-397b-4c07-a97b-b3b871d6eb3a" />
 
 
-Valittuani ensimmäisen raakabitin, niin heti pystyin näkemään sen ajan osana koko kokonaisuudessa, joka oli ilmiselvästi äärimmäisen lyhyt ajanjakso ````521,00 µs````. Tämä on ajassa 521 millisekuntia. Tutkin myös muita satunnaisia yksittäisiä raakabittejä ja ne olivat ajaltaan eri pituisia, kuin ensimmäinen. Jotkin bitit saattoivat kestää, jopa puolet vähemmen kuin ensimmäinen, jota käytin vertailukohteena. Hirvesäti tuota merkittävästi ei ollut. Suurinpiirtein 100 millisekuntin kasvua oli havaittavissa muutamissa biteissä, mutta se oli harvinaisempaa.
+Valittuani ensimmäisen raakabitin, niin heti pystyin näkemään sen ajan osana koko kokonaisuudessa, joka oli ilmiselvästi äärimmäisen lyhyt ajanjakso ````521,00 µs````. Tämä on ajassa 521 mikrosekuntia. Tutkin myös muita satunnaisia yksittäisiä raakabittejä ja ne olivat ajaltaan eri pituisia, kuin ensimmäinen. Jotkin bitit saattoivat kestää, jopa puolet vähemmen kuin ensimmäinen, jota käytin vertailukohteena. Hirvesäti tuota merkittävästi ei ollut. Suurinpiirtein 100 mikrosekuntin kasvua oli havaittavissa muutamissa biteissä, mutta se oli harvinaisempaa.
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e0d94a1f-16b6-4703-9dbb-a1d9c757948c" />
+
+
+Vertailun kohteena tässä pidin valonnopeutta ja sitä, kuinka pitkän matkan valo kerkeää kulkea yhden raakabitin aikana. Käytin laskukaavassa valonnopeuden vakio nopeutta ````299 792 458 m/s```` ja sen suhdetta raakabitin aikaan eli 521 mikrosekuntiin. Tätä varten muunsin ajan laskukaavaan sopivammaksi ````t = 521 / 1 000 000 s = 5,21 · 10⁻⁴ s````. Laskin matkan pituuden kaavalla ````s = c · t````. 
+
+#### Yksiköt
+
+````
+* c = metriä sekunissa
+* t = sekuntit
+* s = metrit
+````
+
+#### Lasku
+
+````
+299 792 458 m/s · 5,21 · 10⁻⁴ s = 156 191,9 m ≈ 156,19 km
+````
+
+#### Vertailun lopputulos
+
+Mikäki tätä 
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/3b8f2648-5c9a-4584-b2c8-bbdb50aeedee" />
