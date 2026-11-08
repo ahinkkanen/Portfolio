@@ -64,7 +64,7 @@ Näytteessä ilmenee mahdollisesti kolmen eri laitteen siepattuja signaaleja. T�
 
 ## d) Too complex 16?
 
-Tehtävää varten ladattiin ````terokarvinen.com```` -sivulta harjoitustiedosto, joka on nauhoitettu ````urh```` -ohjelmalla. Koska näyte on otettu ````urh```` -ohjelmalla, on sen tiedostopääte ````.complex16s````. Jos tätä lähtisi itsessään analysoimaan suoraan hyödyntäen rtl_433 ohjelmistoa, niin se ei onnistuisi, koska ````rtl_433```` ei tunnistaisi tuota ````.complex16s```` -tiedostopäätettä. 
+Tehtävää varten ladattiin ````terokarvinen.com```` -sivulta harjoitustiedosto, joka on nauhoitettu ````urh```` -ohjelmalla. Koska näyte on otettu ````urh```` -ohjelmalla, on sen tiedostopääte ````.complex16s````. Jos tätä lähtisi itsessään analysoimaan suoraan hyödyntäen ````rtl_433```` ohjelmistoa, niin se ei onnistuisi, koska ````rtl_433```` ei tunnistaisi tuota ````.complex16s```` -tiedostopäätettä. 
 
 Alla olevassa kuvassa ilmenee ongelmani, kun pyrin ajamaan tiedostoa ````rtl_433```` ohjelmalla.
 
