@@ -137,3 +137,10 @@ Tästä selviää, että kaapatun signaalin kokonaiskesto on ````5,49 s```` ja t
 ````
 1-on-on-on-HackRF-20250412_113805-433_912MHz-2MSps-2MHz.complex16s
 ````
+
+
+## g) Bittistä.
+
+Valitsin ````Signal View```` -valikkoon ````Demodulated````ja aloin tarkastelemaan alla näkyviä bittirivejä.
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/94b48a1b-397b-4c07-a97b-b3b871d6eb3a" />
