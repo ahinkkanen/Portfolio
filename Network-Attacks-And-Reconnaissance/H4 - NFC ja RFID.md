@@ -10,6 +10,11 @@ Selvitin mahdollisia syitä, miksi muut eivät toimineet samalla tavalla. Selvis
 
 <img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/a1ec6402-b796-4e5f-b126-6f6a4a2b7540" />
 
+### Pohdintaa omasta suojautumisesta RFID urkintaa vastaan
+
+
+
+
 
 
 ## b) Tutustu APDU komentojen rakenteeseen.
