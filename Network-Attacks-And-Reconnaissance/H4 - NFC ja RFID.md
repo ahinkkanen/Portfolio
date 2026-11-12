@@ -13,3 +13,6 @@ Minulla oli käytössä vain rajallinen määrä tuotteita kotoani, jossa on kä
 
 
 ## c) Tutki ja kerro minkä mielenkiintoisen RFID hakkerointi uutiset löysit.
+
+
+https://thehackernews.com/2018/04/hacking-hotel-master-key.html
