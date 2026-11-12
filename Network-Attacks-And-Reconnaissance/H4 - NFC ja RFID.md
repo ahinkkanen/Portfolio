@@ -14,5 +14,6 @@ Minulla oli käytössä vain rajallinen määrä tuotteita kotoani, jossa on kä
 
 ## c) Tutki ja kerro minkä mielenkiintoisen RFID hakkerointi uutiset löysit.
 
+Uutinen on sivustolta ````The Hackers News```` poimittu artikkeli, joka koskee tutkimusta, jossa hakkerit ovat kyenneet rakentamaan ````Master Key````:n, jonka avulla pystytäään murtautumaan miljooniin hotellihuoneisiin. 
 
 https://thehackernews.com/2018/04/hacking-hotel-master-key.html
