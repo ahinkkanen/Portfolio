@@ -4,7 +4,7 @@
 
 
 
-## b) Tutustu APDU komentojen rakenteeseen (voit käyttää tekoälyä tutustumiseen)
+## b) Tutustu APDU komentojen rakenteeseen.
 
 
 
