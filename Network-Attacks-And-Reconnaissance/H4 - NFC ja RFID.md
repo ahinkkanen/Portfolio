@@ -39,3 +39,11 @@ Tosiaan APDU on älykorttien ja lukijalaitteiden välisessä tiedonsiirrossa kä
 https://thehackernews.com/2018/04/hacking-hotel-master-key.html
 
 Uutinen on sivustolta ````The Hackers News```` poimittu artikkeli, joka koskee tutkimusta, jossa suomalaiset hakkerit/tietoturvatutkijat ovat kyenneet rakentamaan ````Master Key````:n, jonka avulla pystytäään murtautumaan miljooniin hotellihuoneisiin. Vaikka uutinen on jo vanha (````26.04.2018````) oli se silti todella mielenkiintoinen luettava. Tosiaan tuolloin suositussa elektronisessa lukitusjärjestelmässä havaittiin suunnitteluvirhe, joka mahdollisti kaikkien lukittujen huoneiden avaamisen. Kyse oli Assa Abloyn Vision by VingCard -lukitusjärjestelmästä, joka on käytössä yli 42 000 kohteessa 166 maassa. Kehittäjinä tälle ````Master Key````:lle olivat F-Securen tutkijat Tomi Tuominen ja Timo Hirvonen, jotka rakensivat tuhansien työtuntien jälkeen tämän avaimen, joka avasi minkä tahansa järjestelmää käyttävän hotellihuoneen. Teoriatasolla hyökkäys vaati vain yhden kohteen avainkortin. Sen tiedot saattoi lukea etäältä vieraan taskusta tai hankkia varaamalla huoneen. Sitten muutaman sadan euron RFID-lukija/kirjoittaja ja tutkijoiden oma ohjelmisto riittivät luomaan yleisavaimen minuuteissa. Laite kokeili lukon luona eri avaimia alle minuutin ja sieltä pystyi murtamaan avaimen ja avata oven jättämättä jälkeä järjestelmään. Hyökkäystä ei tiettävästi käytetty todellisessa maailmassa.
+
+
+## Lähteet:
+
+* Claude Sonnet 5.5 Low
+* https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/
+* https://thehackernews.com/
+* https://thehackernews.com/2018/04/hacking-hotel-master-key.html
