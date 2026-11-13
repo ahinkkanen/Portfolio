@@ -29,7 +29,7 @@ Komento-APDU koostuu otsikosta (CLA, INS, P1, P2) ja valinnaisesta rungosta (Lc,
 Tietoturvan kannalta APDU:t ovat tärkeitä, koska relay-hyökkäyksessä hyökkääjä välittää juuri nämä viestit kortin ja lukijan välillä. Esimerkiksi tänä vuonna löydetty WindRelay-haittaohjelma välitti pankkikortin APDU-viestejä reaaliajassa rikollisten laitteelle. Salausta ei siis tarvitse murtaa, riittää että viestit liikkuvat kortin ja lukijan välillä.
 
 #### Oma pohdinta APDU komentojen rakenteesta
-Tosiaan APDU on älykorttien ja lukijalaitteiden välisessä tiedonsiirrossa käytettävä viestimuoto, jonka avulla laitteet voivat lähettää komentoja ja vastaanottaa vastauksia. APDU-viesti koostuu komentoluokasta, käskystä ja sen parametreista, sekä mahdollisesta datasta. Vastauksessa kortti palauttaa pyydetyt tiedot sekä tilakoodit, jotka kertovat, että onnistuiko komento. APDU-viestejä käytetään esimerkiksi pankkikorteissa, SIM-korteissa ja NFC-tunnistautumisessa. Ne ovat myös tietoturvan kannalta merkittäviä, sillä viestien välittäminen kortin ja lukijan välillä voi mahdollistaa erilaisia relay-hyökkäyksiä.
+Tosiaan APDU on älykorttien ja lukijalaitteiden välisessä tiedonsiirrossa käytettävä viestimuoto, jonka avulla laitteet voivat lähettää komentoja ja vastaanottaa vastauksia. APDU-viesti koostuu komentoluokasta, käskystä ja sen parametreista, sekä mahdollisesta datasta. Vastauksessa kortti palauttaa pyydetyt tiedot sekä tilakoodit, jotka kertovat, että onnistuiko komento. APDU-viestejä käytetään esimerkiksi pankkikorteissa, SIM-korteissa ja NFC-tunnistautumisessa. Ne ovat myös tietoturvan kannalta merkittäviä, sillä viestien välittäminen kortin ja lukijan välillä voi mahdollistaa urkinnalle mahdollisuutta.
 
 
 ## c) Tutki ja kerro minkä mielenkiintoisen RFID hakkerointi uutiset löysit.
@@ -45,5 +45,6 @@ Uutinen on sivustolta ````The Hackers News```` poimittu artikkeli, joka koskee t
 
 * Claude Sonnet 5.5 Low
 * https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/
+* https://smartcardfyi.com/guide/apdu-command-reference/
 * https://thehackernews.com/
 * https://thehackernews.com/2018/04/hacking-hotel-master-key.html
