@@ -21,14 +21,14 @@ Tässä harjoituksessa todentui, että ainakin korttini tuntuvat olevan suhteell
 
 #### Claude Sonnet 5.5 Low määritelmä APDU komentojen rakenteesta
 
-````
+
 APDU (Application Protocol Data Unit) on ISO/IEC 7816-4 -standardin määrittelemä viestiyksikkö, jolla lukija ja älykortti keskustelevat keskenään. Lukija lähettää kortille komento-APDU:n, ja kortti vastaa vastaus-APDU:lla. Myös NFC-kortit käyttävät samoja viestejä langattomasti.
 
 Komento-APDU koostuu otsikosta (CLA, INS, P1, P2) ja valinnaisesta rungosta (Lc, Data, Le). CLA kertoo käskyn luokan, INS itse käskyn, P1 ja P2 käskyn parametrit, Lc lähetettävän datan pituuden, Data itse datan ja Le vastaukselta odotetun pituuden. Vastaus-APDU sisältää mahdollisen datan sekä statustavut SW1 ja SW2, joista 90 00 tarkoittaa onnistumista.
 
 Tietoturvan kannalta APDU:t ovat tärkeitä, koska relay-hyökkäyksessä hyökkääjä välittää juuri nämä viestit kortin ja lukijan välillä. Esimerkiksi tänä vuonna löydetty WindRelay-haittaohjelma välitti pankkikortin APDU-viestejä reaaliajassa rikollisten laitteelle. Salausta ei siis tarvitse murtaa, riittää että viestit liikkuvat kortin ja lukijan välillä.
-````
 
+#### Oma pohdinta APDU komentojen rakenteesta
 Tosiaan.
 
 
