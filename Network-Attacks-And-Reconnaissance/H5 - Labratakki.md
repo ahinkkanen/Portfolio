@@ -14,6 +14,9 @@
 <img width="594" height="134" alt="image" src="https://github.com/user-attachments/assets/d80aaf04-6379-46f2-a05a-3ddaac3a6800" />
 
 
+### vaihdoin kaliin
+
+<img width="1892" height="1426" alt="image" src="https://github.com/user-attachments/assets/d8d855fc-3fb0-4ca6-ad6e-914985272763" />
 
 
 ## b) Samassa hakemistossa on myös ICMP Spoofing ja TCP Session Hijacking. Aja molemmat labrat läpi ja kerro, miten molemmat tekniikat toimivat.
