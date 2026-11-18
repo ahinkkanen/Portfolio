@@ -70,7 +70,7 @@ tcpdump –i h3-eth0 –w arp-p.pcap &
 
 ###
 
-Seuraavaksi lähdettiin WireSharkin avulla kuuntelemaan h1-eth0 verkkoa valitsemalla h3-eth0 liitäntä. WireShark avattiin komentoriviltä ````wireshark &```` -komennolla. Nopeasti huomasin kuitenkin, että siinä ei ollut vielä yhtään kaapattua liikennettä. 
+Seuraavaksi lähdettiin WireSharkin avulla kuuntelemaan ````h1-eth0```` -verkkoa valitsemalla ````h3-eth0```` -liitäntä. WireShark avattiin komentoriviltä ````wireshark &```` -komennolla. Nopeasti huomasin kuitenkin, että siinä ei ollut vielä yhtään kaapattua liikennettä. 
 
 <img width="1310" height="944" alt="image" src="https://github.com/user-attachments/assets/f40c3b80-90e2-488e-9338-6a75bebab4ce" />
 
