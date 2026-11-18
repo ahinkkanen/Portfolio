@@ -3,7 +3,7 @@
 
 ## a) Aja tunnilla esitetty ARP hyökkäys ja tutki, miten se toimii.
 
-Tehtvän aloitin avaamalla ````Mininet```` -koneen ja alustin koneen harjopitusta varten ohjeiden mukaisesti. ````Mininet```` koneessa ajettiin alla oleva komento.
+Tehtvän aloitin avaamalla ````Mininet```` -koneen ja alustin koneen harjoitusta varten ohjeiden mukaisesti. ````Mininet```` koneessa ajettiin alla oleva komento.
 
 ````
 ryu-manager ryu.app.simple_switch_13
