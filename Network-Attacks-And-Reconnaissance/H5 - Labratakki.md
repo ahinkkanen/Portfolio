@@ -19,7 +19,7 @@
 
 ### vaihdoin kaliin
 
-<img width="1892" height="1426" alt="image" src="https://github.com/user-attachments/assets/d8d855fc-3fb0-4ca6-ad6e-914985272763" />
+<img width="912" height="326" alt="image" src="https://github.com/user-attachments/assets/32dc9cdc-765b-44ec-953e-b6535cd5f737" />
 
 
 ###
