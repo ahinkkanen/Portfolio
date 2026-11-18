@@ -51,7 +51,8 @@ Seuraavaksi oli tarkoitus avata ````Node: h1```` pystyyn komennolla ````xterm h1
 Kurkkasin komennolla ````arp -n```` taulukon, josta ilmeni ````ip````, ````verkkotyyppi```` ja ````MAC````.
 
 
-<img width="816" height="142" alt="image" src="https://github.com/user-attachments/assets/51ff1c28-0e2a-4130-b313-630f5c738c12" />
+<img width="726" height="140" alt="image" src="https://github.com/user-attachments/assets/44b95a97-3795-4d63-8971-1681a1fb71da" />
+
 
 
 
