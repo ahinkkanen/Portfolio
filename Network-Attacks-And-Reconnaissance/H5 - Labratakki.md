@@ -119,7 +119,7 @@ Aluksi käynnistettiin ````Mininet```` -ympäristö.
 
 ````sudo python hub_topo.py````
 
-Seuraavaksi käynnistin ````h1```` ja ajoin sinne käyntiin skriptin, joka tarkkailee ja tulostaa kaiken ICMP-liikenteen ja lähtevät echo-requestit sekä saapuvat echo-replyt.
+Seuraavaksi käynnistin mininetissä ````h1```` ja ajoin sinne käyntiin skriptin, joka tarkkailee ja tulostaa kaiken ICMP-liikenteen ja lähtevät echo-requestit sekä saapuvat echo-replyt.
 
 ````
 xterm h1
