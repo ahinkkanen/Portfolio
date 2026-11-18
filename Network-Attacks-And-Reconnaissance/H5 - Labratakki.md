@@ -202,5 +202,7 @@ Lopuksi palasin takaisin terminaaliin, jota käytin aiemmin ja siellä ajoin nyt
 <img width="2310" height="1446" alt="image" src="https://github.com/user-attachments/assets/38eb7fbb-b2d6-4402-9652-4d49650bbe93" />
 
 
+En ole täysin varma miten kauan tämä simulaatio jatkuisi, mutta sen ajo oli sen verran hidasta, että pysäytin sen kohdassa ````Episode 14````.
+
 
 ## Lähteet:
