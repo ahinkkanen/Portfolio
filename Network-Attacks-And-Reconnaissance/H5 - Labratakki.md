@@ -113,6 +113,7 @@ Tehtävässä havainnollisteettiin, kuinka ARP-myrkytys eli toisin sanoen Man In
 
 ### TCP Session Hijacking
 
+<img width="2306" height="1260" alt="image" src="https://github.com/user-attachments/assets/9ce08018-fabf-407f-b24d-a44d50ea469f" />
 
 
 
