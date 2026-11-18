@@ -25,11 +25,9 @@ Lopuksi vielä ajoin ````pingall```` -komennon mininetin sisällä, koska tämä
 
 <img width="742" height="240" alt="image" src="https://github.com/user-attachments/assets/04f9db8c-5984-4674-884f-59a11a3f0271" />
 
-
-<img width="860" height="774" alt="image" src="https://github.com/user-attachments/assets/9fb97e92-9254-4378-9e5b-232be0f1cd90" />
-
 ###
 
+Minulla tuli kuitenkin ````PuTTY:n```` kanssa ongelma ja en ollut huomannut mallista tähän vielä tässä vaiheessa korjausta niin vaihdoin kesken kaiken pois ````PuTTY:sta```` ja siirryin ````Kaliin````, josta otin SSH yhteyden ````Mininettiin````.
 <img width="594" height="134" alt="image" src="https://github.com/user-attachments/assets/d80aaf04-6379-46f2-a05a-3ddaac3a6800" />
 
 
@@ -74,7 +72,7 @@ Lopuksi vielä ajoin ````pingall```` -komennon mininetin sisällä, koska tämä
 
 
 
-
+<img width="860" height="774" alt="image" src="https://github.com/user-attachments/assets/9fb97e92-9254-4378-9e5b-232be0f1cd90" />
 ## b) Samassa hakemistossa on myös ICMP Spoofing ja TCP Session Hijacking. Aja molemmat labrat läpi ja kerro, miten molemmat tekniikat toimivat.
 
 
