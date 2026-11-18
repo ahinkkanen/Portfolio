@@ -55,7 +55,15 @@ Kurkkasin komennolla ````arp -n```` taulukon, josta ilmeni ````ip````, ````verkk
 
 ###
 
-Seuraavaksi otettiin avattiin yhteys ````Node: h3```` terminaali näkymään samalla ````xterm h3```` -komennolla. 
+Seuraavaksi otettiin avattiin yhteys ````Node: h3```` terminaali näkymään samalla ````xterm h3```` -komennolla. ````h3```` koneen sisällä ajettiin komentoja tehtävää määrityksiä varten.
+
+````
+sysctl -w net.ipv4.ip_forward=1
+
+iptables -t nat -A PREROUTING -p tcp --dport 22 -j REDIRECT --toport 22
+
+tcpdump –i h3-eth0 –w arp-p.pcap &
+````
 
 <img width="1138" height="268" alt="image" src="https://github.com/user-attachments/assets/8a075d48-78bc-4b2a-94c9-9c4fc2ece8f0" />
 
