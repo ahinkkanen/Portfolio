@@ -81,6 +81,9 @@ Kävin vielä ````Node: h3```` sisällä määrittämässä yhden tärkeän kome
 
 ###
 
+Seuraavaksi oli tarkoitus ottaa ````h1```` koneelta ````SSH```` -yhteys ````h2```` -koneeseen. Komennolla ````ssh h2````.
+
+
 <img width="860" height="774" alt="image" src="https://github.com/user-attachments/assets/3ef1ca03-713a-48d8-b264-a51b85a6b06c" />
 
 
