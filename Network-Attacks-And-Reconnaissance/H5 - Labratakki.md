@@ -36,6 +36,7 @@ Minulla tuli kuitenkin ````PuTTY:n```` kanssa ongelma ja en ollut huomannut mall
 
 <img width="912" height="326" alt="image" src="https://github.com/user-attachments/assets/32dc9cdc-765b-44ec-953e-b6535cd5f737" />
 
+<img width="426" height="62" alt="image" src="https://github.com/user-attachments/assets/629c50a5-98b6-40b8-b93d-c4ee718ff03e" />
 
 ###
 
