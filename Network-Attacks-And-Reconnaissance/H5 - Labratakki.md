@@ -93,6 +93,7 @@ Kävin vielä ````Node: h3```` sisällä määrittämässä yhden tärkeän kome
 
 
 <img width="860" height="774" alt="image" src="https://github.com/user-attachments/assets/9fb97e92-9254-4378-9e5b-232be0f1cd90" />
+
 ## b) Samassa hakemistossa on myös ICMP Spoofing ja TCP Session Hijacking. Aja molemmat labrat läpi ja kerro, miten molemmat tekniikat toimivat.
 
 
