@@ -98,11 +98,10 @@ Kääntöpuolena tehtävän todellinen tarkoitus ilmenee nyt ````h3```` -koneess
 <img width="1856" height="394" alt="image" src="https://github.com/user-attachments/assets/d1d68cee-4875-4093-9e8a-8efa039c1760" />
 
 
+### Yhteenveto
 
+Tehtävässä havainnollisteettiin, kuinka ARP-myrkytys eli toisin sanoen Man In The Middle -hyökkäys konkreettisesti toimii.
 
-
-
-<img width="860" height="774" alt="image" src="https://github.com/user-attachments/assets/9fb97e92-9254-4378-9e5b-232be0f1cd90" />
 
 ## b) Samassa hakemistossa on myös ICMP Spoofing ja TCP Session Hijacking. Aja molemmat labrat läpi ja kerro, miten molemmat tekniikat toimivat.
 
