@@ -93,6 +93,8 @@ Tämä varoitus vaati pienen toimenpiteen, jotta myrkytys saadaan lopulta onnist
 
 <img width="806" height="230" alt="image" src="https://github.com/user-attachments/assets/d36492b8-45b1-47d4-a18b-c62e55b825f1" />
 
+Kääntöpuolena tehtävän todellinen tarkoitus ilmenee nyt ````h3```` -koneessa, koska sinne on ilmestnyt ````SSH```` -kirjautumistiedot. 
+
 <img width="1856" height="394" alt="image" src="https://github.com/user-attachments/assets/d1d68cee-4875-4093-9e8a-8efa039c1760" />
 
 
