@@ -74,6 +74,9 @@ Seuraavaksi lähdettiin WireSharkin avulla kuuntelemaan h1-eth0 verkkoa valitsem
 
 <img width="1310" height="944" alt="image" src="https://github.com/user-attachments/assets/f40c3b80-90e2-488e-9338-6a75bebab4ce" />
 
+
+Kävin vielä ````Node: h3```` sisällä määrittämässä yhden tärkeän komennon ````ARP-myrkytyksen```` sieppaamsita varten ````sshesame -port 22 -listen_address 0.0.0.0````. Avasin vielä uuden ````h3```` terminaalin ja sinne laitoin myrkytys skriptin pyörimään. 
+
 ###
 
 <img width="860" height="774" alt="image" src="https://github.com/user-attachments/assets/3ef1ca03-713a-48d8-b264-a51b85a6b06c" />
