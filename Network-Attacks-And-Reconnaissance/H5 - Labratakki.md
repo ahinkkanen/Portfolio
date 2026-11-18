@@ -107,6 +107,19 @@ Tehtävässä havainnollisteettiin, kuinka ARP-myrkytys eli toisin sanoen Man In
 
 ### ICMP Spoofing
 
+Labran aloitin ottamalla ````SSH```` -yhteyden ````Mininet```` -koneeseen. Seuraavaksi navigoin itseni oikeaan hakemistoon ````mininet@mininet-vm:~/lab/01-Network-Security-Lab/scripts$````. Sen jälkeen aloin noudattamaan GitHubista labran ajoon ohjeita. 
+
+Kyseisen labran ohjeet löytyvät README.md osiosta repositoriossa:
+
+````
+https://github.com/ssam246/Network-Security-Lab/blob/main/README.md
+````
+
+Aluksi käynnistettiin ````Mininet```` -ympäristö.
+
+````sudo python hub_topo.py````
+
+
 <img width="2348" height="1364" alt="image" src="https://github.com/user-attachments/assets/1a3963f1-ce39-42f8-ba6c-214073b5e4c8" />
 
 <img width="2284" height="1054" alt="image" src="https://github.com/user-attachments/assets/1c94ee64-4355-49f4-84ec-8446f8650c15" />
