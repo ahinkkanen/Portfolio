@@ -185,38 +185,10 @@ python tcp_hijack.py
 Tässä labrassa mallinnetaan TCP-istunnon kaappaus, jossa Host 1 ja Host 2 keskustelivat normaalisti keskenään. Host 3 kuunteli tätä keskustelua sivusta ja näki siitä tunnistetiedot, joiden avulla yhteys tunnistetaan. Näiden tietojen avulla Host 3 pystyi lähettämään oman viestin niin, että se näytti tulevan suoraan Host 2:lta.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## c) Hakemistossa 02-SDN-DDos_Simulation tryout-kansiossa on työkalut, jotta voit ajaa TCP SYN-Flood-hyökkäyksen turvallisesti. Kirjoita, miten ajoit hyökkäyksen ja miten kyseinen hyökkäys toimii.
 
 
+<img width="2310" height="1446" alt="image" src="https://github.com/user-attachments/assets/38eb7fbb-b2d6-4402-9652-4d49650bbe93" />
 
 
 
