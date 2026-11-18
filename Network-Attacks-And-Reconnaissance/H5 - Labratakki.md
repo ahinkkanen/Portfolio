@@ -121,15 +121,19 @@ Aluksi käynnistettiin ````Mininet```` -ympäristö.
 
 Seuraavaksi käynnistin ````h1```` ja ajoin sinne käyntiin skriptin, joka tarkkailee ja tulostaa kaiken ICMP-liikenteen ja lähtevät echo-requestit sekä saapuvat echo-replyt.
 
-````xterm h1````
+````
+xterm h1
 
-````python sniff_icmp.py````
+python sniff_icmp.py
+````
 
 Lopuksi käynnistin toisen ikkunnan ````h2````, jossa käynnistin ````ICMP```` -protokollalla toimivan ````ping```` -komennon, joka lähetti jatkuvasti paketteja toiselle koneelle.
 
-````xterm h2````
+````
+xterm h2
 
-````ping 10.0.0.1````
+ping 10.0.0.1
+````
 
 <img width="2348" height="1364" alt="image" src="https://github.com/user-attachments/assets/1a3963f1-ce39-42f8-ba6c-214073b5e4c8" />
 
