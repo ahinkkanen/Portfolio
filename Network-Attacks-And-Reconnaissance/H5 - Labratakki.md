@@ -111,6 +111,9 @@ Tehtävässä havainnollisteettiin, kuinka ARP-myrkytys eli toisin sanoen Man In
 
 <img width="2284" height="1054" alt="image" src="https://github.com/user-attachments/assets/1c94ee64-4355-49f4-84ec-8446f8650c15" />
 
+Tässä labrassa Host 2 pingasi Host 1:tä ja Host 1:llä oli ajettu sniff_icmp.py, joka tarkkaili ja tulosti kaiken ICMP-liikenteen sekä lähtevät echo-requestit, että saapuvat echo-replyt omalta verkkoliitännältään. Tämä mallinsi sitä, että ICMP-paketit kulkevat verkossa ilman mitään todennusta ja kuka tahansa, joka näkee liikenteen tai pystyy lähettämään paketteja, voisi yhtä hyvin väärentää ICMP-viestin ja väittää sen tulevan toiselta koneelta, eikä vastaanottaja pystyisi sitä havaitsemaan.
+
+
 ### TCP Session Hijacking
 
 <img width="2306" height="1260" alt="image" src="https://github.com/user-attachments/assets/9ce08018-fabf-407f-b24d-a44d50ea469f" />
