@@ -32,7 +32,7 @@ Minulla tuli kuitenkin ````PuTTY:n```` kanssa ongelma ja en ollut huomannut mall
 <img width="594" height="134" alt="image" src="https://github.com/user-attachments/assets/d80aaf04-6379-46f2-a05a-3ddaac3a6800" />
 
 
-### Vaihdoin Kaliin ja testasin yhteyksien toimivuuden uudestaan.
+### Vaihdoin Kaliin, tein samat toimenpiteet ja testasin yhteyksien toimivuuden uudestaan.
 
 <img width="912" height="326" alt="image" src="https://github.com/user-attachments/assets/32dc9cdc-765b-44ec-953e-b6535cd5f737" />
 
