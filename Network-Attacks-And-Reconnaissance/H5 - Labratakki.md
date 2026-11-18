@@ -3,6 +3,19 @@
 
 ## a) Aja tunnilla esitetty ARP hyökkäys ja tutki, miten se toimii.
 
+Tehtvän aloitin avaamalla ````Mininet```` -koneen ja alustin koneen harjopitusta varten ohjeiden mukaisesti. ````Mininet```` koneessa ajettiin alla oleva komento.
+
+````
+ryu-manager ryu.app.simple_switch_13
+````
+
+Viereen avasin ````PuTTY```` -ohjelman, jolla otin ````SSh```` -yhteyden myös ````Mininet```` -koneeseen, jotta voin ajaa ohella toisen komennon pyörimään. Komento alla.
+
+
+````
+sudo mn --topo single,3 --mac --switch ovsk --controller remote
+````
+
 <img width="2834" height="1378" alt="image" src="https://github.com/user-attachments/assets/ef771ebe-9d3b-4884-82c0-db3faebfaa74" />
 
 ###
