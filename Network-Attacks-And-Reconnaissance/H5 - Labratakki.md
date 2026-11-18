@@ -86,9 +86,9 @@ Seuraavaksi oli tarkoitus ottaa ````h1```` koneelta ````SSH```` -yhteys ````h2``
 
 <img width="860" height="774" alt="image" src="https://github.com/user-attachments/assets/3ef1ca03-713a-48d8-b264-a51b85a6b06c" />
 
-
-
 ### 
+
+Tämä varoitus vaati pienen toimenpiteen, jotta myrkytys saadaan lopulta onnistumaan. Tässä täytyi poistaa vanha ````SSH```` -avain komennolla ````ssh-keygen –R h2````. Sitten voimme ottaa uudelleen ````SSH```` -yhteyden ````h1```` -koneesta koneeseen ````h2````. Syötettyä tehtävän annon mukainen salasana eli ````salasana```` päästiin onnistuneesti sisään ````h2```` koneelle.
 
 <img width="1856" height="394" alt="image" src="https://github.com/user-attachments/assets/d1d68cee-4875-4093-9e8a-8efa039c1760" />
 
