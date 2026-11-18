@@ -100,8 +100,7 @@ Kääntöpuolena tehtävän todellinen tarkoitus ilmenee nyt ````h3```` -koneess
 
 ### Yhteenveto
 
-Tehtävässä havainnollisteettiin, kuinka ARP-myrkytys eli toisin sanoen Man In The Middle -hyökkäys konkreettisesti toimii.
-
+Tehtävässä havainnollisteettiin, kuinka ARP-myrkytys eli toisin sanoen Man In The Middle -hyökkäys konkreettisesti toimii. Tässä hyökkääjä lähettää verkkoon ns vääriä viestejä, jotka saavat kaksi konetta luulemaan, että toisen osoite kuuluisikin hyökkääjälle. Tämän jälkeen koneiden välinen liikenne kulkeekin hyökkääjän kautta, vaikka ne luulevat puhuvansa suoraan toisilleen. Hyökkääjä kykenee näin lukemaan niiden liikenteen. Harjoituksessa yhteys meni hyökkääjän koneen kautta ja tämä sai talteen mm. salasanan.
 
 ## b) Samassa hakemistossa on myös ICMP Spoofing ja TCP Session Hijacking. Aja molemmat labrat läpi ja kerro, miten molemmat tekniikat toimivat.
 
