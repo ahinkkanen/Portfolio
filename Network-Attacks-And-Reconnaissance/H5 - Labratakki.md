@@ -193,11 +193,11 @@ Aloitin syöttämällä terminaaliin ````python simple_tree_top.py ````. Tämä 
 
 <img width="2270" height="326" alt="image" src="https://github.com/user-attachments/assets/2875de2f-4056-4cda-b39d-fede570a30bf" />
 
-Sitten ohjeiden mukaisesti avasin uuden terminaali näkymän, johon ajoin komennon  ````PYTHONPATH=: ryu-manager main.py ````
+Sitten ohjeiden mukaisesti avasin uuden terminaali näkymän, johon ajoin komennon  ````PYTHONPATH=: ryu-manager main.py ````.
 
 <img width="2880" height="1532" alt="image" src="https://github.com/user-attachments/assets/8f506e04-bc30-4f1b-8699-a0a7e9e8bfe5" />
 
-Lopuksi palasin takaisin terminaaliin, jota käytin aiemmin ja siellä ajoin nyt uuden lopullisen  ````python3 tree_topology.py ```` -ohjeleman ja se käynnisti oikean simulaation tilanteesta, jossa jokin  ````host ```` lähettää  ````episodin aikana hyökkäävää liikennettä ja normaaleja pyyntöjä. Oletan, että tässä mallinnetaan, jotain palvelunestohyökkäystä, jossa hyökkäystä varten liikkuvia paketteja naamioidaan normaalien joukkoon sekoittamaan yleiskuvaa. 
+Lopuksi palasin takaisin terminaaliin, jota käytin aiemmin ja siellä ajoin nyt uuden lopullisen  ````python3 tree_topology.py ```` -ohjeleman ja se käynnisti oikean simulaation tilanteesta, jossa jokin  ````host ```` lähettää  ````episodin ```` aikana hyökkäävää liikennettä ja normaaleja pyyntöjä. Oletan, että tässä mallinnetaan, jotain palvelunestohyökkäystä, jossa hyökkäystä varten liikkuvia paketteja naamioidaan normaalien joukkoon sekoittamaan yleiskuvaa. 
 
 <img width="2310" height="1446" alt="image" src="https://github.com/user-attachments/assets/38eb7fbb-b2d6-4402-9652-4d49650bbe93" />
 
