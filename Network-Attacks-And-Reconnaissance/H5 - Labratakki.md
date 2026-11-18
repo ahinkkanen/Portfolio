@@ -9,7 +9,7 @@ Tehtvän aloitin avaamalla ````Mininet```` -koneen ja alustin koneen harjopitust
 ryu-manager ryu.app.simple_switch_13
 ````
 
-Viereen avasin ````PuTTY```` -ohjelman, jolla otin ````SSh```` -yhteyden myös ````Mininet```` -koneeseen, jotta voin ajaa ohella toisen komennon pyörimään. Komento alla.
+Viereen avasin ````PuTTY```` -ohjelman, jolla otin ````SSH```` -yhteyden myös ````Mininet```` -koneeseen, jotta voin ajaa ohella toisen komennon pyörimään. Komento alla.
 
 
 ````
