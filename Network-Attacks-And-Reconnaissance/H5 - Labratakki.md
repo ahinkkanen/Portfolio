@@ -206,3 +206,6 @@ En ole täysin varma miten kauan tämä simulaatio jatkuisi, mutta sen ajo oli s
 
 
 ## Lähteet:
+
+* https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/
+* https://hhmoodle.haaga-helia.fi/pluginfile.php/5055842/mod_resource/content/1/03-mininet.pdf
