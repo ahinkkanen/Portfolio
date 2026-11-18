@@ -117,9 +117,11 @@ https://github.com/ssam246/Network-Security-Lab/blob/main/README.md
 
 Aluksi käynnistettiin ````Mininet```` -ympäristö.
 
-````sudo python hub_topo.py````
+````
+sudo python hub_topo.py
+````
 
-Seuraavaksi käynnistin mininetissä ````h1```` ja ajoin sinne käyntiin skriptin, joka tarkkailee ja tulostaa kaiken ICMP-liikenteen ja lähtevät echo-requestit sekä saapuvat echo-replyt.
+Seuraavaksi käynnistin Mininetissä ````h1```` ja ajoin sinne käyntiin skriptin, joka tarkkailee ja tulostaa kaiken ICMP-liikenteen ja lähtevät echo-requestit sekä saapuvat echo-replyt.
 
 ````
 xterm h1
@@ -145,6 +147,36 @@ Tässä labrassa Host 2 pingasi Host 1:tä ja Host 1:llä oli ajettu sniff_icmp.
 
 
 ### TCP Session Hijacking
+
+Koska Mininet ympäristö oli jo olemssa ja olin oikeassa hakemistossa, sitä ei tarvinnut luoda uudelleen. Poistin terminaaleista kaikki ajossa olevat ohjelmat ja loin vielä kolmannen terminaalin ````h3```` harjoitusta varten.
+
+````
+xterm h3
+````
+
+Käynnissä olevaan ````h1```` terminaaliin ajoin uuden skriptin.
+
+````
+python tcp_server.py
+````
+
+Seuraavaksi ````h2```` terminaaliin ajoin seuraavan skriptin.
+
+````
+python tcp_client.py
+````
+
+Sitten ajoin ````h3```` -terminaalin yhden skriptin ja tein vielä toisen ````h3```` -terminaalin toista skriptiä varten, joka myös oli tarkoitus ajaa ````h3```` sisällä.
+
+````
+python sniff_tcp_session.py
+
+xterm h3
+
+python tcp_hijack.py
+````
+
+
 
 <img width="2306" height="1260" alt="image" src="https://github.com/user-attachments/assets/9ce08018-fabf-407f-b24d-a44d50ea469f" />
 
