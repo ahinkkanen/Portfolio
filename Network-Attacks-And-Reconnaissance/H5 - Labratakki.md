@@ -16,6 +16,9 @@ Viereen avasin ````PuTTY```` -ohjelman, jolla otin ````SSH```` -yhteyden myös `
 sudo mn --topo single,3 --mac --switch ovsk --controller remote
 ````
 
+Lopuksi vielä ajoin ````pingall```` -komennon mininetin sisällä, koska tämä varmisti, että yhteydet harjoitusta varten olevilla virtuaalikoneilla toimivat. 
+
+### 
 <img width="2834" height="1378" alt="image" src="https://github.com/user-attachments/assets/ef771ebe-9d3b-4884-82c0-db3faebfaa74" />
 
 ###
