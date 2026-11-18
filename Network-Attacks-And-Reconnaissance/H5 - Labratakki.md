@@ -53,10 +53,9 @@ Kurkkasin komennolla ````arp -n```` taulukon, josta ilmeni ````ip````, ````verkk
 
 <img width="726" height="140" alt="image" src="https://github.com/user-attachments/assets/44b95a97-3795-4d63-8971-1681a1fb71da" />
 
-
-
-
 ###
+
+Seuraavaksi otettiin avattiin yhteys ````Node: h3```` terminaali näkymään samalla ````xterm h3```` -komennolla. 
 
 <img width="1138" height="268" alt="image" src="https://github.com/user-attachments/assets/8a075d48-78bc-4b2a-94c9-9c4fc2ece8f0" />
 
