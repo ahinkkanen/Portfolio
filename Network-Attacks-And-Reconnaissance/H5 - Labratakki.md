@@ -197,12 +197,11 @@ Sitten ohjeiden mukaisesti avasin uuden terminaali näkymän, johon ajoin komenn
 
 <img width="2880" height="1532" alt="image" src="https://github.com/user-attachments/assets/8f506e04-bc30-4f1b-8699-a0a7e9e8bfe5" />
 
-Lopuksi palasin takaisin terminaaliin, jota käytin aiemmin ja siellä ajoin nyt uuden lopullisen  ````python3 tree_topology.py ```` -ohjeleman ja se käynnisti oikean simulaation tilanteesta, jossa jokin  ````host ```` lähettää  ````episodin ```` aikana hyökkäävää liikennettä ja normaaleja pyyntöjä. Oletan, että tässä mallinnetaan, jotain palvelunestohyökkäystä, jossa hyökkäystä varten liikkuvia paketteja naamioidaan normaalien joukkoon sekoittamaan yleiskuvaa. 
+Lopuksi palasin takaisin terminaaliin, jota käytin aiemmin ja siellä ajoin nyt uuden lopullisen  ````python3 tree_topology.py ```` -ohjeleman ja se käynnisti oikean simulaation tilanteesta, jossa jokin  ````host ```` lähettää  ````episodin ```` aikana hyökkäävää liikennettä ja normaaleja pyyntöjä. Oletan, että tässä mallinnetaan, jotain palvelunestohyökkäystä, jossa hyökkäystä varten liikkuvia paketteja naamioidaan normaalien joukkoon sekoittamaan yleiskuvaa. En ole täysin varma, miten kauan tämä simulaatio jatkuisi, mutta sen ajo oli sen verran hidasta, että pysäytin sen kohdassa ````Episode 14````.
+
+
 
 <img width="2310" height="1446" alt="image" src="https://github.com/user-attachments/assets/38eb7fbb-b2d6-4402-9652-4d49650bbe93" />
-
-
-En ole täysin varma, miten kauan tämä simulaatio jatkuisi, mutta sen ajo oli sen verran hidasta, että pysäytin sen kohdassa ````Episode 14````.
 
 
 ## Lähteet:
