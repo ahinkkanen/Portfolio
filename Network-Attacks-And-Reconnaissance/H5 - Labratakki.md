@@ -143,7 +143,7 @@ ping 10.0.0.1
 
 #### Toiminta ICMP Spoofing
 
-Tässä labrassa Host 2 pingasi Host 1:tä ja Host 1:llä oli ajettu sniff_icmp.py, joka tarkkaili ja tulosti kaiken ICMP-liikenteen sekä lähtevät echo-requestit, että saapuvat echo-replyt omalta verkkoliitännältään. Tämä mallinsi sitä, että ICMP-paketit kulkevat verkossa ilman mitään todennusta ja kuka tahansa, joka näkee liikenteen tai pystyy lähettämään paketteja, voisi yhtä hyvin väärentää ICMP-viestin ja väittää sen tulevan toiselta koneelta, eikä vastaanottaja pystyisi sitä havaitsemaan.
+Tässä labrassa ````Host 2```` pingasi ````Host 1:tä```` ja ````Host 1:llä```` oli ajettu ````sniff_icmp.py````, joka tarkkaili ja tulosti kaiken ````ICMP```` -liikenteen sekä lähtevät ````echo-requestit````, että saapuvat ````echo-replyt```` omalta verkkoliitännältään. Tämä mallinsi sitä, että ````ICMP-paketit```` kulkevat verkossa ilman mitään todennusta ja kuka tahansa, joka näkee liikenteen tai pystyy lähettämään paketteja, voisi yhtä hyvin väärentää ````ICMP-viestin```` ja väittää sen tulevan toiselta koneelta, eikä vastaanottaja pystyisi sitä havaitsemaan.
 
 
 ### TCP Session Hijacking
