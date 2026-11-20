@@ -208,3 +208,5 @@ Lopuksi palasin takaisin terminaaliin, jota käytin aiemmin ja siellä ajoin nyt
 
 * https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/
 * https://hhmoodle.haaga-helia.fi/pluginfile.php/5055842/mod_resource/content/1/03-mininet.pdf
+* https://github.com/santhisenan/SDN_DDoS_Simulation
+* https://github.com/ssam246/Network-Security-Lab
