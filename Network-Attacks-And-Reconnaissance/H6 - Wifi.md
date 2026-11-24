@@ -3,7 +3,7 @@
 
 ## a) Tutustu wifi challenge lab 2.1 harjoitus ympäristöön ja käytä tarvittaessa hyväksesi jo olemassa olevia ohjeita.
 
-### 0.0.
+### 0.0. Introduction
 
 Tehtävän aloitin Käynnistämällä harjoitusympäristö virtuaalikoneen. WiFiChallenge sivustolta ensimmäinen harjoitus oli nimeltään ````Introduction````. Tehtävänanto oli selvittää tiedoston sisältö, jonka poluksi oli annettu ````/root/flag.txt````. Näkymä sivustolla ````00. What is the contents of the file /root/flag.txt on the VM?````. 
 
@@ -20,7 +20,7 @@ Löydetyn lipun olin jo syöttänyt ````WiFiChallenge```` -sivustolle aiemmin, j
 <img width="2798" height="1530" alt="image" src="https://github.com/user-attachments/assets/05225024-862c-4532-8887-5850dce1b19b" />
 
 
-### 01.
+### 01. Recon
 
 
 ## b) Kirjoita raportti siitä mitä opit ja mitkä asia yllättivät sinut kun tutustuit harjoitukseen.
