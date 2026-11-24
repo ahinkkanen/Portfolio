@@ -93,8 +93,12 @@ Syötin alla olevan ````MAC-osoitteen```` tarkastukseen ````WiFiChallenges```` -
 
 #### 03. What is the probe of 78:C1:A7:BF:72:46?
 
+Lähdin tarkastelemaan aiemmin käytetyn komennon ````sudo airodump-ng wlan0mon -w ~/challenges/scan --manufacturer --wps --band abg```` tulostetta ja sieltä alhaalta asiakkaiden näkymästä löytyi ````Probes```` -valikosta vastaus ````wifi-offices,Jason````. Syötin tuon aluksi ````WiFiChallenges```` -sivustolle, mutta se palautti virheen. Tämän jälkeen testasin vastaukselle eri muotoa ````wifi-offices```` ja se toimi.
+
+<img width="2284" height="1390" alt="image" src="https://github.com/user-attachments/assets/b57de0c6-14ad-4065-97a9-e7b7b030ddc9" />
 
 
+<img width="1010" height="1474" alt="image" src="https://github.com/user-attachments/assets/eaa08ba8-d212-414d-8c00-347e5796a9ed" />
 
 
 ## b) Kirjoita raportti siitä mitä opit ja mitkä asia yllättivät sinut kun tutustuit harjoitukseen.
