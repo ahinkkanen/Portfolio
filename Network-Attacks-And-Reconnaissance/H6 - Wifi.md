@@ -22,7 +22,7 @@ Löydetyn lipun olin jo syöttänyt ````WiFiChallenge```` -sivustolle aiemmin, j
 
 ### Recon
 
-Seuraavana tehtäväkseni otin järjestyksessä seuraavan tehtävän ````Recon```` -osioista nimeltään ````01. What is the channel that the wifi global Access Point is currently using````. Aloitin luomalla tuleville tehtäville oman kansion nimeltä ````challenges````. Siirryin kansioon ja tarkastin komennolla ````iwconfig```` siellä käynnistin ohjelman ````airmon-ng```` komennolla ````sudo airmon-ng start wlan0
+Seuraavana tehtäväkseni otin järjestyksessä seuraavan tehtävän ````Recon```` -osioista nimeltään ````01. What is the channel that the wifi global Access Point is currently using````. Aloitin luomalla tuleville tehtäville oman kansion nimeltä ````challenges````. Siirryin kansioon ja tarkastin komennolla ````iwconfig```` verkkokortit, joita virtuaaliympäristössä oli. Seuraavaksi kansion sisällä käynnistin ohjelman ````airmon-ng```` komennolla ````sudo airmon-ng start wlan0````.
 
 <img width="1190" height="204" alt="image" src="https://github.com/user-attachments/assets/f8800006-ba0b-45b1-a740-587eb12e422e" />
 
