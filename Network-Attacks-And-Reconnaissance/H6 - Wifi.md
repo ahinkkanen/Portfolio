@@ -1,4 +1,4 @@
-<img width="2034" height="1454" alt="image" src="https://github.com/user-attachments/assets/62f08cce-aa4b-4b20-8849-4d72e4d960b9" /># h6 Wifi
+# h6 Wifi
 
 
 ## a) Tutustu wifi challenge lab 2.1 harjoitus ympäristöön ja käytä tarvittaessa hyväksesi jo olemassa olevia ohjeita.
