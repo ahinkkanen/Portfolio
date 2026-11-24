@@ -33,9 +33,14 @@ Seuraavaksi käynnistin ````airodump-ng````, jotta voin tarkastella saamaani lii
 
 <img width="2642" height="1280" alt="image" src="https://github.com/user-attachments/assets/899588c1-223f-4632-b8cb-6f83b522b24e" />
 
+Puhtaasta mielenkiinnosta tahdoin vielä avata tiedoston ````WireShark```` -ohjelmaan, jotta voin tarkastaa näkeekö saman vastauksen myös sieltä. Hetkellisen tutkimisen jälkeen en kuitenkaan onnistunut löytämään samaa vastausta täältä.
+
+<img width="1266" height="138" alt="image" src="https://github.com/user-attachments/assets/4d081751-8d49-4325-8ef0-9c38d11325d5" />
+
 
 <img width="2034" height="1454" alt="image" src="https://github.com/user-attachments/assets/75a99517-3750-49d8-8a27-425ba00e4a1b" />
 
+Palautin ````WiFiChallenges```` sivustolle tehtävän palautukseen löytämäni vastauksen ````44```` ja se oli oikein.
 
 <img width="2880" height="1534" alt="image" src="https://github.com/user-attachments/assets/bfbee0ec-1b94-484c-9456-d018e668a176" />
 
