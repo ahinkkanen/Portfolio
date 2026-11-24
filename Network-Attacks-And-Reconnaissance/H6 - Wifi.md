@@ -29,9 +29,13 @@ Seuraavana tehtäväkseni otin järjestyksessä seuraavan tehtävän ````Recon``
 
 <img width="2624" height="1374" alt="image" src="https://github.com/user-attachments/assets/53e6b9b0-790a-4698-876d-50335a263703" />
 
+####
+
 Seuraavaksi käynnistin ````airodump-ng````, jotta voin tarkastella saamaani liikenttä. Tämän käynnistin komennolla ````sudo airodump-ng wlan0mon -w ~/challenges/scan --manufacturer --wps --band abg````. Komentoriville ilmestyi liikennettä. Täältä silmään osui tehtävässä mainittu ````wifi-global```` Access Point ja sen kanava joka oli ````44````. 
 
 <img width="2642" height="1280" alt="image" src="https://github.com/user-attachments/assets/899588c1-223f-4632-b8cb-6f83b522b24e" />
+
+####
 
 Puhtaasta mielenkiinnosta tahdoin vielä avata tiedoston ````WireShark```` -ohjelmaan, jotta voin tarkastaa näkeekö saman vastauksen myös sieltä. Hetkellisen tutkimisen jälkeen en kuitenkaan onnistunut löytämään samaa vastausta täältä.
 
@@ -39,6 +43,8 @@ Puhtaasta mielenkiinnosta tahdoin vielä avata tiedoston ````WireShark```` -ohje
 
 
 <img width="2034" height="1454" alt="image" src="https://github.com/user-attachments/assets/75a99517-3750-49d8-8a27-425ba00e4a1b" />
+
+####
 
 Palautin ````WiFiChallenges```` sivustolle tehtävän palautukseen löytämäni vastauksen ````44```` ja se oli oikein.
 
