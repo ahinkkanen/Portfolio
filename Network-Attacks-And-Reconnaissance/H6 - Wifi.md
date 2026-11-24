@@ -58,11 +58,28 @@ Palautin ````WiFiChallenges```` -sivustolle tehtävän palautukseen löytämäni
 
 <img width="2642" height="1358" alt="image" src="https://github.com/user-attachments/assets/3e6f3531-35a2-4e27-8b8d-80d1d94c1f12" />
 
+####
+
 ````
 F0:9F:C2:1A:CA:25
 ````
 
+####
+
 <img width="1100" height="1038" alt="image" src="https://github.com/user-attachments/assets/31644ac9-b3ab-40b9-b64a-23243e1e047b" />
+
+
+####
+
+
+
+````
+10:F9:6F:AC:53:52
+````
+
+####
+
+
 
 
 ## b) Kirjoita raportti siitä mitä opit ja mitkä asia yllättivät sinut kun tutustuit harjoitukseen.
