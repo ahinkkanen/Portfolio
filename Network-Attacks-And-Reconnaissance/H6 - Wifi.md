@@ -1,4 +1,4 @@
-# h6 Wifi
+<img width="2034" height="1454" alt="image" src="https://github.com/user-attachments/assets/62f08cce-aa4b-4b20-8849-4d72e4d960b9" /># h6 Wifi
 
 
 ## a) Tutustu wifi challenge lab 2.1 harjoitus ympäristöön ja käytä tarvittaessa hyväksesi jo olemassa olevia ohjeita.
@@ -22,13 +22,18 @@ Löydetyn lipun olin jo syöttänyt ````WiFiChallenge```` -sivustolle aiemmin, j
 
 ### Recon
 
-Seuraavana tehtäväkseni otin järjestyksessä seuraavan ````Recon```` -osioista ````01. What is the channel that the wifi global Access Point is currently using````. 
+Seuraavana tehtäväkseni otin järjestyksessä seuraavan tehtävän ````Recon```` -osioista nimeltään ````01. What is the channel that the wifi global Access Point is currently using````. Aloitin luomalla tuleville tehtäville oman kansion nimeltä ````challenges````. Siirryin kansioon ja tarkastin komennolla ````iwconfig```` siellä käynnistin ohjelman ````airmon-ng```` komennolla ````sudo airmon-ng start wlan0
+
+<img width="1190" height="204" alt="image" src="https://github.com/user-attachments/assets/f8800006-ba0b-45b1-a740-587eb12e422e" />
 
 
 <img width="2624" height="1374" alt="image" src="https://github.com/user-attachments/assets/53e6b9b0-790a-4698-876d-50335a263703" />
 
 
 <img width="2642" height="1280" alt="image" src="https://github.com/user-attachments/assets/899588c1-223f-4632-b8cb-6f83b522b24e" />
+
+
+<img width="2034" height="1454" alt="image" src="https://github.com/user-attachments/assets/75a99517-3750-49d8-8a27-425ba00e4a1b" />
 
 
 <img width="2880" height="1534" alt="image" src="https://github.com/user-attachments/assets/bfbee0ec-1b94-484c-9456-d018e668a176" />
