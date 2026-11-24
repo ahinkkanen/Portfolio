@@ -31,6 +31,9 @@ Seuraavana tehtäväkseni otin järjestyksessä seuraavan ````Recon```` -osioist
 <img width="2642" height="1280" alt="image" src="https://github.com/user-attachments/assets/899588c1-223f-4632-b8cb-6f83b522b24e" />
 
 
+<img width="2880" height="1534" alt="image" src="https://github.com/user-attachments/assets/bfbee0ec-1b94-484c-9456-d018e668a176" />
+
+
 ## b) Kirjoita raportti siitä mitä opit ja mitkä asia yllättivät sinut kun tutustuit harjoitukseen.
 
 
