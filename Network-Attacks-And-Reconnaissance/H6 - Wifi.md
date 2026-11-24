@@ -69,13 +69,18 @@ F0:9F:C2:1A:CA:25
 
 ####
 
+Testasin syöttää vastausta harjoitukseen tarkastukseen, mutta se olikin väärin ja piti aloittaa tutkiminen erinäkökulmista. 
+
 <img width="1100" height="1038" alt="image" src="https://github.com/user-attachments/assets/31644ac9-b3ab-40b9-b64a-23243e1e047b" />
 
 
 ####
 
+Katsoin tässä kohtaa taas apua walktrough kohdasta ja syötin komennon ````sudo airodump-ng wlan0mon -w ~/challenges/scanc11 --manufacturer --wps -c11````. Tämä avasi uuden luettelon, josta selvisi juuri tämän ````wifi-IT````:n asiakas, joka on ````10:F9:6F:AC:53:52````. 
+
 <img width="2880" height="1630" alt="image" src="https://github.com/user-attachments/assets/87d85019-61b0-4fdc-8038-e1942e87c788" />
 
+Syötin alla olevan ````MAC-osoitteen```` tarkastukseen ````WiFiChallenges```` -sivustolla ja se oli oikein.
 
 ````
 10:F9:6F:AC:53:52
@@ -84,6 +89,12 @@ F0:9F:C2:1A:CA:25
 ####
 
 <img width="986" height="1300" alt="image" src="https://github.com/user-attachments/assets/311fea54-f8d3-44a1-a957-3dd53130decc" />
+
+
+#### 03. What is the probe of 78:C1:A7:BF:72:46?
+
+
+
 
 
 ## b) Kirjoita raportti siitä mitä opit ja mitkä asia yllättivät sinut kun tutustuit harjoitukseen.
