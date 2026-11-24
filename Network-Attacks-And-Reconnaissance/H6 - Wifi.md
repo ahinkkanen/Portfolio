@@ -56,6 +56,9 @@ Palautin ````WiFiChallenges```` -sivustolle tehtävän palautukseen löytämäni
 
 #### 02. What is the MAC of the wifi-IT client?
 
+
+Tehtävää varten tarkastelin aiempaa näkymää, josta tein nopean olettaman, että haettu vastaus olisi ````wifi-IT```` kohdasta ````BSSID````. Kuvan perusteella se oli ````F0:9F:C2:1A:CA:25````. 
+
 <img width="2642" height="1358" alt="image" src="https://github.com/user-attachments/assets/3e6f3531-35a2-4e27-8b8d-80d1d94c1f12" />
 
 ####
