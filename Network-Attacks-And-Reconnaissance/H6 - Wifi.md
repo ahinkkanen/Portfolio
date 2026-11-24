@@ -22,7 +22,7 @@ Löydetyn lipun olin jo syöttänyt ````WiFiChallenge```` -sivustolle aiemmin, j
 
 ### Recon
 
-#### 01.
+#### 01. What is the channel that the wifi-global Access Point is currently using?
 
 Seuraavana tehtäväkseni otin järjestyksessä seuraavan tehtävän ````Recon```` -osioista nimeltään ````01. What is the channel that the wifi-global Access Point is currently using````. Aloitin luomalla tuleville tehtäville oman kansion nimeltä ````challenges````. Siirryin kansioon ja tarkastin komennolla ````iwconfig```` verkkokortit, joita virtuaaliympäristössä oli. Seuraavaksi kansion sisällä käynnistin ohjelman ````airmon-ng```` komennolla ````sudo airmon-ng start wlan0````.
 
@@ -52,8 +52,9 @@ Palautin ````WiFiChallenges```` -sivustolle tehtävän palautukseen löytämäni
 
 <img width="2880" height="1534" alt="image" src="https://github.com/user-attachments/assets/bfbee0ec-1b94-484c-9456-d018e668a176" />
 
+####
 
-#### 02.
+#### 02. What is the MAC of the wifi-IT client?
 
 <img width="2642" height="1358" alt="image" src="https://github.com/user-attachments/assets/3e6f3531-35a2-4e27-8b8d-80d1d94c1f12" />
 
