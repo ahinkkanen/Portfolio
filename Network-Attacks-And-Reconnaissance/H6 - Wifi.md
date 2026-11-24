@@ -46,7 +46,7 @@ Puhtaasta mielenkiinnosta tahdoin vielä avata tiedoston ````WireShark```` -ohje
 
 ####
 
-Palautin ````WiFiChallenges```` sivustolle tehtävän palautukseen löytämäni vastauksen ````44```` ja se oli oikein.
+Palautin ````WiFiChallenges```` -sivustolle tehtävän palautukseen löytämäni vastauksen ````44```` ja se oli oikein.
 
 <img width="2880" height="1534" alt="image" src="https://github.com/user-attachments/assets/bfbee0ec-1b94-484c-9456-d018e668a176" />
 
