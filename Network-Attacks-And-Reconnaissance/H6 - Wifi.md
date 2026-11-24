@@ -22,13 +22,14 @@ Löydetyn lipun olin jo syöttänyt ````WiFiChallenge```` -sivustolle aiemmin, j
 
 ### Recon
 
-Seuraavana tehtäväkseni otin järjestyksessä seuraavan tehtävän ````Recon```` -osioista nimeltään ````01. What is the channel that the wifi global Access Point is currently using````. Aloitin luomalla tuleville tehtäville oman kansion nimeltä ````challenges````. Siirryin kansioon ja tarkastin komennolla ````iwconfig```` verkkokortit, joita virtuaaliympäristössä oli. Seuraavaksi kansion sisällä käynnistin ohjelman ````airmon-ng```` komennolla ````sudo airmon-ng start wlan0````.
+Seuraavana tehtäväkseni otin järjestyksessä seuraavan tehtävän ````Recon```` -osioista nimeltään ````01. What is the channel that the wifi-global Access Point is currently using````. Aloitin luomalla tuleville tehtäville oman kansion nimeltä ````challenges````. Siirryin kansioon ja tarkastin komennolla ````iwconfig```` verkkokortit, joita virtuaaliympäristössä oli. Seuraavaksi kansion sisällä käynnistin ohjelman ````airmon-ng```` komennolla ````sudo airmon-ng start wlan0````.
 
 <img width="1190" height="204" alt="image" src="https://github.com/user-attachments/assets/f8800006-ba0b-45b1-a740-587eb12e422e" />
 
 
 <img width="2624" height="1374" alt="image" src="https://github.com/user-attachments/assets/53e6b9b0-790a-4698-876d-50335a263703" />
 
+Seuraavaksi käynnistin ````airodump-ng````, jotta voin tarkastella saamaani liikenttä. Tämän käynnistin komennolla ````sudo airodump-ng wlan0mon -w ~/challenges/scan --manufacturer --wps --band abg````. Komentoriville ilmestyi liikennettä. Täältä silmään osui tehtävässä mainittu ````wifi-global```` Access Point ja sen kanava joka oli ````44````. 
 
 <img width="2642" height="1280" alt="image" src="https://github.com/user-attachments/assets/899588c1-223f-4632-b8cb-6f83b522b24e" />
 
