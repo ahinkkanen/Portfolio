@@ -22,6 +22,8 @@ Löydetyn lipun olin jo syöttänyt ````WiFiChallenge```` -sivustolle aiemmin, j
 
 ### Recon
 
+#### 01.
+
 Seuraavana tehtäväkseni otin järjestyksessä seuraavan tehtävän ````Recon```` -osioista nimeltään ````01. What is the channel that the wifi-global Access Point is currently using````. Aloitin luomalla tuleville tehtäville oman kansion nimeltä ````challenges````. Siirryin kansioon ja tarkastin komennolla ````iwconfig```` verkkokortit, joita virtuaaliympäristössä oli. Seuraavaksi kansion sisällä käynnistin ohjelman ````airmon-ng```` komennolla ````sudo airmon-ng start wlan0````.
 
 <img width="1190" height="204" alt="image" src="https://github.com/user-attachments/assets/f8800006-ba0b-45b1-a740-587eb12e422e" />
@@ -49,6 +51,17 @@ Puhtaasta mielenkiinnosta tahdoin vielä avata tiedoston ````WireShark```` -ohje
 Palautin ````WiFiChallenges```` -sivustolle tehtävän palautukseen löytämäni vastauksen ````44```` ja se oli oikein.
 
 <img width="2880" height="1534" alt="image" src="https://github.com/user-attachments/assets/bfbee0ec-1b94-484c-9456-d018e668a176" />
+
+
+#### 02.
+
+<img width="2642" height="1358" alt="image" src="https://github.com/user-attachments/assets/3e6f3531-35a2-4e27-8b8d-80d1d94c1f12" />
+
+````
+F0:9F:C2:1A:CA:25
+````
+
+<img width="1100" height="1038" alt="image" src="https://github.com/user-attachments/assets/31644ac9-b3ab-40b9-b64a-23243e1e047b" />
 
 
 ## b) Kirjoita raportti siitä mitä opit ja mitkä asia yllättivät sinut kun tutustuit harjoitukseen.
