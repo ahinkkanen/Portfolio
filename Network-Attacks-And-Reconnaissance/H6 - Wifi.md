@@ -80,8 +80,7 @@ F0:9F:C2:1A:CA:25
 
 ####
 
-<img width="980" height="1122" alt="image" src="https://github.com/user-attachments/assets/cecd7518-1d15-4f14-8b88-34b9e6f07d61" />
-
+<img width="986" height="1300" alt="image" src="https://github.com/user-attachments/assets/311fea54-f8d3-44a1-a957-3dd53130decc" />
 
 
 ## b) Kirjoita raportti siitä mitä opit ja mitkä asia yllättivät sinut kun tutustuit harjoitukseen.
