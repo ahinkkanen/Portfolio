@@ -112,3 +112,8 @@ Harjoituksessa opin, kuinka paljon tietoa langattomasta verkosta saa selville pe
 Aiemmin ajattelin WLANin turvallisuuden olevan lähinnä salasanan varassa. Harjoituksen jälkeen ymmärrän, että langaton verkko on aina periaatteessa kaikkien kuunneltavissa, koska radioaaltoja ei voi rajata seinien sisälle. Jo ennen salauksen murtamista voi saada selville verkkojen nimiä, laitteita ja jopa laitteiden aiemmin käyttämiä verkkoja. Siksi turvallisuutta ei kannata perustaa siihen, että verkon tietoja yritetään pitää piilossa. Yleisten käytäntöjen mukaan tärkeää on käyttää vahvaa salausta, pitkää salasanaa ja erottaa vieraiden verkko omasta verkosta. Myös omien laitteiden vanhat tallennetut verkot kannattaa poistaa, ettei laite paljasta niitä. Jatkossa suhtaudun WLANiin varovaisemmin, varsinkin julkisissa verkoissa. Oletan nyt, että osa laitteen ja verkon tiedoista on aina jonkun nähtävillä.
 
 ## Lähteet:
+
+* Claude Sonnet 5.5 Low
+* https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/
+* https://lab.wifichallenge.com/challenges
+* https://r4ulcl.com/posts/walkthrough-wifichallenge-lab-2.0/#04-what-is-the-essid-of-the-hidden-ap-mac-f09fc26a88
