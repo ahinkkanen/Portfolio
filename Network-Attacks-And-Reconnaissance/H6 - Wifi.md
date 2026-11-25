@@ -104,9 +104,11 @@ Lähdin tarkastelemaan aiemmin käytetyn komennon ````sudo airodump-ng wlan0mon 
 ## b) Kirjoita raportti siitä mitä opit ja mitkä asia yllättivät sinut kun tutustuit harjoitukseen.
 
 
+Harjoituksessa opin, kuinka paljon tietoa langattomasta verkosta saa selville pelkästään kuuntelemalla liikennettä. Verkkoon ei tarvinnut kirjautua, mutta silti sain selville esimerkiksi Access Pointin kanavan ja asiakaslaitteiden MAC-osoitteet. Yllättävää oli, että tein ````wifi-IT```` -tehtävässä aluksi väärän oletuksen ja vastasin Access Pointin osoitteen asiakaslaitteen sijasta. Tästä opin, että Access Point ja asiakaslaite pitää osata erottaa toisistaan. Toinen yllätys oli, että asiakas löytyi vasta, kun rajasin skannauksen yhteen kanavaan. Pelkkä yleinen skannaus ei siis aina näytä kaikkea. Eniten minua yllätti kuitenkin ````Probes```` -sarake, koska laitteen aiemmin käyttämät verkot näkyivät, vaikka laite ei ollut yhteydessä mihinkään. Harjoitus oli mielestäni hyvä tapa nähdä, mitä langattomassa liikenteessä oikeasti näkyy ja miten sitä tutkitaan.
 
 
 ## c) Miten suhtautumisesi WLanin turvallisuuteen muuttui sen jälkeen kun teit harjoitukset?
 
+Aiemmin ajattelin WLANin turvallisuuden olevan lähinnä salasanan varassa. Harjoituksen jälkeen ymmärrän, että langaton verkko on aina periaatteessa kaikkien kuunneltavissa, koska radioaaltoja ei voi rajata seinien sisälle. Jo ennen salauksen murtamista voi saada selville verkkojen nimiä, laitteita ja jopa laitteiden aiemmin käyttämiä verkkoja. Siksi turvallisuutta ei kannata perustaa siihen, että verkon tietoja yritetään pitää piilossa. Yleisten käytäntöjen mukaan tärkeää on käyttää vahvaa salausta, pitkää salasanaa ja erottaa vieraiden verkko omasta verkosta. Myös omien laitteiden vanhat tallennetut verkot kannattaa poistaa, ettei laite paljasta niitä. Jatkossa suhtaudun WLANiin varovaisemmin, varsinkin julkisissa verkoissa. Oletan nyt, että osa laitteen ja verkon tiedoista on aina jonkun nähtävillä.
 
 ## Lähteet:
